@@ -1,0 +1,2141 @@
+user_id,name,age,gender,city,signup_date,purchase_amount,membership,active
+969,Pooja,18.0,M,Unknown City,,1200.0,Gold,False
+2066,Arjun,21.0,Unknown Gender,Delhi,,1200.0,Bronze,True
+1901,Riya,21.0,Unknown Gender,Mumbai,2022-02-10,1200.0,Gold,True
+191,Arjun,21.0,F,Unknown City,,1200.0,Silver,False
+130,Unknown Name,21.0,F,Pune,2022-01-10,1200.0,Unknown,True
+993,Sneha,21.0,M,Delhi,2021-12-05,1200.0,Silver,True
+95,Kunal,18.0,F,Mumbai,2022-01-10,1200.0,Bronze,False
+680,Riya,21.0,M,Unknown City,2019-03-20,1200.0,Bronze,False
+712,Arjun,21.0,M,Pune,2019-03-20,1200.0,Gold,False
+2206,Kunal,21.0,M,Bangalore,2020-07-15,1200.0,Gold,False
+645,Aman,21.0,M,Pune,2019-03-20,1200.0,Bronze,False
+2189,Unknown Name,20.0,M,Mumbai,2022-01-10,1200.0,Silver,False
+985,Arjun,18.0,F,Delhi,2021-12-05,1200.0,Gold,False
+622,Unknown Name,22.0,F,Pune,,1200.0,Silver,True
+2332,Arjun,21.0,M,Unknown City,2022-01-10,1200.0,Silver,True
+828,Riya,21.0,M,Delhi,2022-01-10,1200.0,Silver,False
+226,Arjun,21.0,F,Bangalore,2019-03-20,1200.0,Gold,False
+1646,Arjun,23.0,Unknown Gender,Delhi,2020-07-15,1200.0,Silver,False
+567,Aman,21.0,M,Bangalore,2022-01-10,1200.0,Unknown,False
+2419,Aman,21.0,Unknown Gender,Pune,2022-01-10,1200.0,Gold,False
+2204,Unknown Name,21.0,F,Bangalore,,1200.0,Silver,False
+1866,Aman,21.0,M,Pune,2021-12-05,1200.0,Gold,True
+951,Riya,23.0,F,Delhi,,1200.0,Gold,False
+845,Unknown Name,21.0,F,Pune,,1200.0,Silver,False
+1347,Pooja,20.0,M,Pune,2019-03-20,1200.0,Unknown,False
+782,Pooja,23.0,F,Unknown City,2019-03-20,1200.0,Gold,False
+1092,Aman,21.0,M,Delhi,2022-01-10,1200.0,Silver,False
+403,Riya,23.0,M,Delhi,,1200.0,Unknown,True
+2366,Riya,21.0,F,Bangalore,2022-01-10,1200.0,Unknown,False
+344,Sneha,19.0,M,Mumbai,2020-07-15,1200.0,Silver,False
+2471,Kunal,21.0,Unknown Gender,Delhi,2022-02-10,1200.0,Bronze,False
+1167,Riya,21.0,M,Delhi,,1200.0,Gold,True
+1819,Arjun,18.0,Unknown Gender,Mumbai,,1200.0,Gold,False
+2191,Pooja,21.0,M,Mumbai,2019-03-20,1200.0,Bronze,False
+685,Sneha,21.0,M,Mumbai,2019-03-20,1200.0,Silver,False
+1998,Unknown Name,21.0,M,Delhi,2020-07-15,1200.0,Silver,False
+921,Riya,22.0,M,Mumbai,2021-12-05,1200.0,Unknown,True
+1670,Unknown Name,21.0,M,Delhi,2020-07-15,1200.0,Silver,False
+1706,Unknown Name,21.0,M,Bangalore,,1200.0,Unknown,True
+785,Arjun,21.0,F,Mumbai,2022-01-10,1200.0,Silver,False
+1188,Unknown Name,21.0,M,Mumbai,,1200.0,Gold,False
+2367,Pooja,19.0,M,Bangalore,,1200.0,Bronze,False
+1687,Pooja,21.0,M,Delhi,2022-02-10,1200.0,Silver,False
+626,Kunal,23.0,M,Delhi,2021-12-05,1200.0,Gold,True
+1108,Aman,23.0,Unknown Gender,Delhi,2020-07-15,1200.0,Unknown,False
+1939,Kunal,21.0,F,Bangalore,,1200.0,Gold,False
+1416,Pooja,22.0,F,Mumbai,2021-12-05,1200.0,Gold,False
+1725,Arjun,19.0,Unknown Gender,Pune,2022-02-10,1200.0,Unknown,False
+2107,Kunal,21.0,M,Delhi,,1200.0,Silver,False
+1970,Aman,21.0,M,Delhi,,1200.0,Unknown,True
+1369,Aman,21.0,F,Delhi,2022-02-10,1200.0,Silver,False
+641,Arjun,19.0,F,Pune,,1200.0,Bronze,False
+1402,Aman,19.0,M,Pune,2021-12-05,1200.0,Gold,False
+791,Pooja,21.0,Unknown Gender,Mumbai,2022-01-10,1200.0,Silver,False
+1623,Sneha,22.0,Unknown Gender,Bangalore,,1200.0,Gold,True
+2041,Arjun,19.0,F,Bangalore,2022-02-10,1200.0,Gold,False
+2217,Arjun,18.0,F,Mumbai,2022-01-10,1200.0,Silver,True
+1763,Riya,21.0,M,Bangalore,2019-03-20,1200.0,Gold,True
+299,Unknown Name,22.0,M,Bangalore,,1200.0,Gold,False
+1285,Riya,20.0,M,Delhi,2019-03-20,1200.0,Unknown,False
+172,Unknown Name,18.0,M,Delhi,2022-02-10,1200.0,Gold,False
+2323,Unknown Name,21.0,F,Delhi,2019-03-20,1200.0,Silver,True
+2192,Riya,21.0,Unknown Gender,Pune,2021-12-05,1200.0,Silver,False
+1509,Unknown Name,20.0,F,Mumbai,2019-03-20,1200.0,Gold,False
+114,Pooja,18.0,M,Bangalore,2021-12-05,1200.0,Gold,True
+2328,Unknown Name,21.0,F,Bangalore,2019-03-20,1200.0,Gold,True
+366,Aman,21.0,M,Unknown City,,1200.0,Silver,False
+1304,Unknown Name,21.0,F,Delhi,2020-07-15,1200.0,Silver,False
+2484,Pooja,21.0,F,Pune,,1200.0,Gold,False
+2309,Arjun,18.0,M,Mumbai,2021-12-05,1200.0,Unknown,False
+1791,Unknown Name,23.0,M,Mumbai,,1200.0,Gold,True
+1079,Pooja,22.0,M,Bangalore,2022-01-10,1200.0,Gold,False
+327,Unknown Name,21.0,M,Pune,2020-07-15,1200.0,Gold,True
+1081,Aman,21.0,F,Unknown City,2019-03-20,1200.0,Bronze,False
+878,Pooja,22.0,F,Delhi,,1200.0,Silver,False
+1920,Riya,23.0,M,Bangalore,,1200.0,Gold,False
+1156,Aman,21.0,M,Delhi,2022-02-10,1200.0,Silver,False
+899,Aman,21.0,F,Delhi,,1200.0,Unknown,False
+2491,Kunal,21.0,F,Delhi,2020-07-15,1200.0,Gold,False
+328,Unknown Name,19.0,M,Bangalore,2020-07-15,1200.0,Gold,True
+2394,Unknown Name,23.0,M,Delhi,2021-12-05,1200.0,Silver,True
+1654,Aman,21.0,F,Unknown City,2020-07-15,1200.0,Silver,False
+404,Unknown Name,21.0,M,Mumbai,2022-02-10,1200.0,Unknown,False
+1155,Pooja,21.0,M,Mumbai,2019-03-20,1200.0,Gold,False
+2057,Aman,21.0,Unknown Gender,Pune,,1200.0,Unknown,False
+283,Aman,23.0,M,Mumbai,2019-03-20,1200.0,Silver,False
+514,Kunal,19.0,F,Delhi,2021-12-05,1200.0,Silver,True
+2050,Arjun,20.0,M,Mumbai,2022-02-10,1200.0,Silver,False
+1940,Sneha,23.0,F,Bangalore,,1200.0,Bronze,True
+2061,Sneha,21.0,F,Mumbai,,1200.0,Silver,True
+1078,Pooja,21.0,F,Delhi,2021-12-05,1200.0,Silver,False
+2492,Unknown Name,20.0,M,Mumbai,2022-01-10,1200.0,Bronze,False
+90,Aman,21.0,M,Delhi,2019-03-20,1200.0,Gold,False
+1945,Aman,23.0,M,Unknown City,2019-03-20,1200.0,Bronze,True
+863,Aman,20.0,Unknown Gender,Unknown City,2021-12-05,1200.0,Gold,False
+63,Riya,20.0,M,Mumbai,,1200.0,Gold,False
+1241,Kunal,21.0,F,Unknown City,2020-07-15,1200.0,Gold,False
+1634,Aman,18.0,M,Pune,2022-02-10,1200.0,Silver,False
+1904,Riya,19.0,M,Mumbai,,1200.0,Gold,False
+385,Unknown Name,21.0,Unknown Gender,Unknown City,2022-02-10,1200.0,Gold,True
+1271,Aman,21.0,M,Delhi,2022-02-10,1200.0,Silver,False
+2327,Sneha,18.0,F,Delhi,2021-12-05,1200.0,Gold,False
+359,Aman,21.0,M,Bangalore,2022-02-10,1200.0,Bronze,False
+2144,Unknown Name,21.0,M,Delhi,,1200.0,Gold,False
+2202,Arjun,18.0,M,Unknown City,,1200.0,Gold,True
+872,Unknown Name,21.0,Unknown Gender,Unknown City,2020-07-15,1200.0,Gold,False
+911,Kunal,21.0,M,Bangalore,,1200.0,Gold,True
+763,Kunal,19.0,M,Delhi,2020-07-15,1200.0,Gold,True
+2449,Aman,22.0,F,Delhi,2021-12-05,1200.0,Bronze,True
+2496,Aman,18.0,F,Delhi,,1200.0,Gold,True
+2243,Pooja,20.0,Unknown Gender,Delhi,2022-01-10,1200.0,Unknown,True
+1217,Sneha,22.0,M,Delhi,2022-01-10,1200.0,Bronze,True
+277,Aman,22.0,M,Pune,2019-03-20,1200.0,Unknown,False
+57,Unknown Name,23.0,M,Unknown City,2019-03-20,1200.0,Gold,True
+1493,Riya,22.0,F,Bangalore,2020-07-15,1200.0,Bronze,False
+991,Pooja,21.0,F,Delhi,2021-12-05,1200.0,Unknown,False
+1379,Riya,22.0,F,Unknown City,2020-07-15,1200.0,Gold,False
+913,Arjun,21.0,Unknown Gender,Delhi,2022-01-10,1200.0,Gold,True
+1389,Arjun,19.0,M,Pune,2019-03-20,1200.0,Gold,True
+1997,Unknown Name,23.0,M,Bangalore,2019-03-20,1200.0,Bronze,False
+824,Arjun,21.0,M,Bangalore,,1200.0,Gold,False
+929,Unknown Name,22.0,M,Unknown City,,1200.0,Gold,False
+1541,Sneha,22.0,M,Mumbai,2022-02-10,1200.0,Gold,True
+889,Unknown Name,19.0,M,Mumbai,2020-07-15,1200.0,Bronze,False
+2218,Kunal,19.0,F,Bangalore,2020-07-15,1200.0,Bronze,False
+1063,Pooja,21.0,M,Mumbai,2022-01-10,1200.0,Unknown,False
+354,Aman,20.0,M,Pune,,1200.0,Gold,True
+1853,Kunal,22.0,Unknown Gender,Mumbai,2022-02-10,1200.0,Silver,False
+1253,Pooja,19.0,M,Delhi,2019-03-20,1200.0,Silver,False
+1251,Aman,19.0,M,Mumbai,2021-12-05,1200.0,Gold,True
+968,Sneha,20.0,Unknown Gender,Bangalore,2019-03-20,1200.0,Gold,True
+1552,Unknown Name,20.0,F,Delhi,,1200.0,Unknown,False
+1147,Sneha,20.0,M,Pune,2020-07-15,1200.0,Silver,True
+257,Arjun,19.0,M,Bangalore,,1200.0,Bronze,True
+1626,Riya,19.0,M,Pune,,1200.0,Silver,True
+2083,Arjun,22.0,M,Delhi,2019-03-20,1200.0,Gold,False
+1321,Aman,22.0,Unknown Gender,Delhi,2022-02-10,1200.0,Gold,False
+2174,Riya,19.0,F,Unknown City,2022-02-10,1200.0,Bronze,True
+2073,Kunal,21.0,M,Delhi,2022-01-10,1200.0,Silver,True
+192,Unknown Name,19.0,M,Delhi,,1200.0,Silver,False
+897,Arjun,22.0,Unknown Gender,Delhi,2022-01-10,1200.0,Silver,False
+1830,Unknown Name,20.0,F,Pune,2020-07-15,1200.0,Silver,True
+1013,Unknown Name,20.0,M,Unknown City,2022-01-10,1200.0,Bronze,False
+1161,Sneha,21.0,F,Mumbai,,1200.0,Silver,False
+1064,Unknown Name,21.0,Unknown Gender,Unknown City,2022-02-10,1200.0,Silver,False
+1477,Unknown Name,21.0,M,Pune,2022-01-10,1200.0,Bronze,True
+930,Riya,21.0,Unknown Gender,Mumbai,2019-03-20,1200.0,Gold,True
+831,Arjun,19.0,M,Mumbai,2019-03-20,1200.0,Unknown,False
+1630,Pooja,23.0,F,Mumbai,,1200.0,Silver,True
+464,Kunal,20.0,F,Delhi,2020-07-15,1200.0,Silver,True
+1465,Kunal,21.0,F,Bangalore,2020-07-15,1200.0,Silver,False
+2308,Unknown Name,18.0,F,Delhi,,1200.0,Silver,True
+992,Riya,21.0,F,Unknown City,,1200.0,Silver,False
+2188,Unknown Name,20.0,M,Delhi,,1200.0,Unknown,False
+1220,Pooja,21.0,M,Bangalore,2021-12-05,1200.0,Silver,False
+2214,Aman,18.0,M,Delhi,2021-12-05,1200.0,Gold,False
+1596,Arjun,18.0,M,Mumbai,2022-01-10,1200.0,Gold,False
+126,Riya,21.0,F,Mumbai,2022-01-10,1200.0,Unknown,False
+2134,Aman,21.0,F,Pune,2019-03-20,1200.0,Gold,False
+2293,Aman,20.0,F,Delhi,2022-02-10,1200.0,Gold,True
+2124,Pooja,21.0,Unknown Gender,Unknown City,,1200.0,Gold,True
+1192,Aman,18.0,M,Mumbai,2019-03-20,1200.0,Gold,False
+1441,Arjun,21.0,F,Delhi,2019-03-20,1200.0,Silver,False
+2479,Sneha,19.0,F,Mumbai,2019-03-20,1200.0,Unknown,False
+2428,Sneha,23.0,M,Bangalore,,1200.0,Gold,False
+2481,Sneha,21.0,M,Mumbai,2021-12-05,1200.0,Gold,False
+1801,Unknown Name,21.0,M,Bangalore,,1200.0,Unknown,True
+281,Riya,22.0,Unknown Gender,Mumbai,2020-07-15,1200.0,Gold,False
+1888,Aman,23.0,M,Mumbai,2021-12-05,1200.0,Silver,False
+2074,Unknown Name,20.0,M,Delhi,,1200.0,Silver,False
+1647,Pooja,18.0,F,Mumbai,2019-03-20,1200.0,Gold,True
+2380,Aman,21.0,M,Delhi,,1200.0,Unknown,True
+1300,Unknown Name,20.0,M,Delhi,,1200.0,Silver,True
+551,Kunal,21.0,F,Mumbai,2021-12-05,1200.0,Silver,True
+56,Aman,20.0,M,Pune,2022-01-10,1200.0,Silver,True
+726,Aman,22.0,F,Pune,,1200.0,Gold,False
+1566,Riya,19.0,M,Unknown City,2022-01-10,1200.0,Silver,False
+1336,Aman,21.0,M,Delhi,2021-12-05,1200.0,Bronze,False
+883,Kunal,19.0,M,Delhi,2022-02-10,1200.0,Bronze,False
+2091,Kunal,19.0,F,Delhi,2022-02-10,1200.0,Gold,False
+2210,Aman,18.0,Unknown Gender,Delhi,2019-03-20,1200.0,Silver,True
+335,Unknown Name,20.0,F,Delhi,,1200.0,Unknown,False
+184,Unknown Name,21.0,M,Mumbai,2022-01-10,1200.0,Gold,False
+1073,Unknown Name,22.0,F,Delhi,2022-01-10,1200.0,Bronze,False
+2354,Sneha,21.0,Unknown Gender,Delhi,2022-02-10,1200.0,Gold,True
+720,Arjun,21.0,Unknown Gender,Mumbai,,1200.0,Gold,False
+2429,Sneha,22.0,Unknown Gender,Bangalore,2022-01-10,1200.0,Silver,False
+1454,Kunal,23.0,M,Pune,,1200.0,Gold,False
+738,Unknown Name,22.0,M,Delhi,,1200.0,Silver,True
+2207,Aman,19.0,M,Delhi,,1200.0,Bronze,True
+606,Riya,23.0,M,Unknown City,,1200.0,Bronze,False
+1981,Kunal,19.0,Unknown Gender,Pune,2021-12-05,1200.0,Gold,False
+1917,Aman,22.0,M,Unknown City,2021-12-05,1200.0,Bronze,True
+1084,Aman,21.0,F,Unknown City,2019-03-20,1200.0,Unknown,False
+520,Aman,21.0,F,Unknown City,2019-03-20,1200.0,Bronze,True
+1017,Kunal,18.0,M,Mumbai,2020-07-15,1200.0,Bronze,False
+715,Unknown Name,21.0,M,Delhi,2020-07-15,1200.0,Gold,False
+2447,Kunal,21.0,M,Delhi,2022-01-10,1200.0,Gold,False
+1982,Arjun,22.0,F,Pune,,1200.0,Bronze,True
+2014,Sneha,18.0,M,Pune,2019-03-20,1200.0,Silver,False
+1585,Aman,21.0,M,Unknown City,,1200.0,Silver,False
+1101,Pooja,22.0,M,Bangalore,,1200.0,Silver,False
+1924,Kunal,21.0,M,Bangalore,,1200.0,Gold,True
+441,Unknown Name,21.0,M,Mumbai,2022-01-10,1200.0,Unknown,False
+1261,Unknown Name,21.0,M,Unknown City,,1200.0,Gold,True
+2054,Sneha,21.0,M,Unknown City,,1200.0,Bronze,True
+1485,Arjun,21.0,F,Pune,,1200.0,Gold,False
+1487,Arjun,22.0,F,Delhi,,1200.0,Gold,False
+1726,Riya,23.0,F,Delhi,2019-03-20,1200.0,Unknown,True
+393,Kunal,22.0,M,Unknown City,,1200.0,Gold,True
+871,Sneha,19.0,F,Delhi,2020-07-15,1200.0,Unknown,False
+722,Aman,21.0,F,Delhi,2022-01-10,1200.0,Gold,False
+1275,Aman,21.0,F,Delhi,2022-02-10,1200.0,Gold,False
+1712,Kunal,22.0,M,Delhi,,1200.0,Silver,False
+2147,Kunal,18.0,M,Unknown City,,1200.0,Gold,False
+565,Unknown Name,20.0,M,Unknown City,2020-07-15,1200.0,Gold,True
+2163,Kunal,21.0,M,Delhi,,1200.0,Silver,False
+58,Pooja,22.0,M,Bangalore,2021-12-05,1200.0,Bronze,True
+994,Kunal,23.0,M,Delhi,2019-03-20,1200.0,Bronze,False
+2300,Unknown Name,23.0,M,Unknown City,2022-02-10,1200.0,Gold,False
+2337,Kunal,21.0,M,Unknown City,,1200.0,Gold,False
+1568,Unknown Name,22.0,M,Bangalore,2022-02-10,1200.0,Gold,True
+2133,Riya,23.0,M,Delhi,2020-07-15,1200.0,Unknown,True
+1221,Unknown Name,21.0,Unknown Gender,Unknown City,2022-01-10,1200.0,Bronze,False
+2010,Pooja,20.0,F,Bangalore,2019-03-20,1200.0,Unknown,False
+1015,Pooja,18.0,M,Bangalore,2020-07-15,1200.0,Unknown,True
+129,Riya,20.0,M,Unknown City,,1200.0,Gold,True
+2458,Aman,20.0,Unknown Gender,Bangalore,,1200.0,Silver,False
+637,Unknown Name,21.0,Unknown Gender,Pune,,1200.0,Silver,False
+530,Riya,19.0,M,Mumbai,2022-02-10,1200.0,Silver,True
+1365,Unknown Name,21.0,Unknown Gender,Pune,2019-03-20,1200.0,Silver,False
+940,Riya,21.0,F,Delhi,2019-03-20,1200.0,Unknown,False
+1398,Unknown Name,21.0,F,Mumbai,2021-12-05,1200.0,Silver,False
+788,Riya,21.0,M,Bangalore,2020-07-15,1200.0,Silver,False
+131,Kunal,18.0,F,Unknown City,2022-01-10,1200.0,Bronze,True
+504,Unknown Name,22.0,Unknown Gender,Unknown City,,1200.0,Gold,False
+2047,Kunal,19.0,F,Delhi,,1200.0,Gold,False
+1473,Arjun,20.0,M,Delhi,2021-12-05,1200.0,Silver,True
+2290,Aman,21.0,M,Bangalore,2019-03-20,1200.0,Bronze,True
+2170,Unknown Name,21.0,M,Unknown City,2022-01-10,1200.0,Silver,True
+1096,Unknown Name,21.0,M,Unknown City,2019-03-20,1200.0,Unknown,False
+1317,Unknown Name,23.0,M,Delhi,2021-12-05,1200.0,Unknown,False
+608,Pooja,21.0,F,Mumbai,,1200.0,Silver,False
+1083,Sneha,21.0,Unknown Gender,Delhi,2022-01-10,1200.0,Gold,False
+2048,Kunal,21.0,Unknown Gender,Delhi,2019-03-20,1200.0,Gold,False
+822,Riya,20.0,M,Bangalore,,1200.0,Gold,False
+1130,Sneha,21.0,F,Bangalore,2022-02-10,1200.0,Silver,False
+1950,Riya,19.0,M,Delhi,2020-07-15,1200.0,Gold,True
+2150,Arjun,19.0,F,Bangalore,,1200.0,Gold,False
+125,Sneha,21.0,M,Mumbai,2021-12-05,1200.0,Unknown,True
+2242,Unknown Name,21.0,F,Delhi,2022-01-10,1200.0,Silver,False
+1329,Arjun,21.0,M,Pune,2021-12-05,1200.0,Gold,False
+635,Kunal,21.0,M,Delhi,2022-01-10,1200.0,Bronze,True
+809,Aman,18.0,M,Bangalore,2022-01-10,1200.0,Gold,True
+1363,Riya,20.0,M,Delhi,,1200.0,Silver,False
+688,Pooja,21.0,Unknown Gender,Delhi,2020-07-15,1200.0,Bronze,True
+1311,Unknown Name,23.0,M,Unknown City,2022-01-10,1200.0,Gold,False
+64,Unknown Name,21.0,M,Delhi,2022-02-10,1200.0,Unknown,False
+987,Riya,18.0,F,Delhi,2022-02-10,1200.0,Gold,False
+2269,Arjun,21.0,M,Mumbai,2021-12-05,1200.0,Bronze,False
+1519,Riya,22.0,F,Delhi,2022-01-10,1200.0,Gold,False
+190,Pooja,21.0,M,Pune,,1200.0,Silver,False
+1453,Riya,21.0,M,Mumbai,2021-12-05,1200.0,Silver,False
+1246,Unknown Name,22.0,F,Delhi,2019-03-20,1200.0,Gold,True
+1435,Pooja,21.0,M,Delhi,2022-02-10,1200.0,Silver,False
+2443,Unknown Name,21.0,M,Delhi,2022-02-10,1200.0,Gold,True
+465,Aman,21.0,M,Bangalore,2022-02-10,1200.0,Gold,False
+2,Kunal,18.0,M,Delhi,,1200.0,Gold,False
+1447,Pooja,23.0,M,Delhi,2019-03-20,1200.0,Silver,True
+2033,Riya,21.0,F,Delhi,2020-07-15,1200.0,Bronze,False
+1576,Aman,18.0,F,Mumbai,2021-12-05,1200.0,Gold,True
+1497,Kunal,21.0,F,Bangalore,2021-12-05,1200.0,Silver,False
+830,Kunal,21.0,M,Mumbai,2020-07-15,1200.0,Silver,False
+1409,Sneha,22.0,F,Delhi,2019-03-20,1200.0,Silver,True
+1401,Kunal,21.0,F,Mumbai,2021-12-05,1200.0,Silver,False
+1464,Riya,19.0,F,Mumbai,2021-12-05,1200.0,Unknown,False
+2490,Aman,21.0,M,Mumbai,,1200.0,Silver,True
+807,Arjun,19.0,M,Mumbai,2019-03-20,1200.0,Unknown,True
+1772,Aman,20.0,M,Delhi,,1200.0,Unknown,False
+266,Kunal,19.0,F,Unknown City,,1200.0,Gold,False
+1769,Sneha,20.0,F,Delhi,,1200.0,Unknown,False
+2045,Kunal,22.0,M,Delhi,2019-03-20,1200.0,Unknown,False
+2109,Aman,21.0,F,Mumbai,2022-02-10,1200.0,Silver,False
+904,Arjun,22.0,M,Delhi,2019-03-20,1200.0,Gold,True
+664,Aman,20.0,F,Delhi,2022-01-10,1200.0,Gold,True
+964,Unknown Name,22.0,M,Unknown City,2022-02-10,1200.0,Gold,False
+705,Aman,23.0,F,Delhi,2022-02-10,1200.0,Silver,False
+1355,Kunal,21.0,Unknown Gender,Mumbai,,1200.0,Bronze,False
+2149,Arjun,18.0,M,Unknown City,2019-03-20,1200.0,Silver,True
+432,Aman,21.0,M,Bangalore,,1200.0,Unknown,False
+2280,Riya,19.0,Unknown Gender,Delhi,2022-01-10,1200.0,Gold,False
+2177,Unknown Name,21.0,M,Unknown City,2021-12-05,1200.0,Silver,False
+1777,Aman,18.0,F,Delhi,2022-01-10,1200.0,Gold,True
+1806,Arjun,21.0,F,Bangalore,2019-03-20,1200.0,Silver,False
+836,Aman,21.0,Unknown Gender,Pune,,1200.0,Unknown,False
+1049,Arjun,21.0,M,Bangalore,2021-12-05,1200.0,Gold,True
+92,Arjun,21.0,F,Bangalore,,1200.0,Gold,False
+1154,Riya,21.0,M,Delhi,2021-12-05,1200.0,Gold,False
+893,Arjun,23.0,Unknown Gender,Delhi,,1200.0,Gold,False
+1644,Unknown Name,21.0,F,Mumbai,2022-02-10,1200.0,Unknown,False
+1339,Aman,21.0,M,Delhi,2021-12-05,1200.0,Unknown,False
+1876,Unknown Name,21.0,M,Pune,2022-02-10,800.0,Silver,False
+2232,Pooja,21.0,F,Delhi,,800.0,Unknown,False
+1794,Arjun,22.0,F,Delhi,2019-03-20,800.0,Gold,True
+1564,Unknown Name,18.0,F,Delhi,2022-01-10,800.0,Bronze,True
+1207,Kunal,21.0,F,Delhi,2019-03-20,800.0,Unknown,False
+746,Arjun,20.0,Unknown Gender,Unknown City,,800.0,Unknown,False
+1926,Unknown Name,21.0,Unknown Gender,Delhi,2022-01-10,800.0,Gold,False
+1105,Aman,21.0,M,Bangalore,2020-07-15,800.0,Silver,True
+1237,Sneha,18.0,M,Mumbai,2019-03-20,800.0,Unknown,False
+166,Unknown Name,18.0,F,Bangalore,2020-07-15,800.0,Gold,False
+1010,Riya,21.0,M,Pune,2019-03-20,800.0,Unknown,False
+345,Sneha,21.0,Unknown Gender,Delhi,,800.0,Gold,False
+205,Pooja,21.0,M,Delhi,2022-01-10,800.0,Silver,False
+1747,Unknown Name,21.0,F,Unknown City,2022-02-10,800.0,Gold,False
+2213,Pooja,21.0,F,Delhi,2022-02-10,800.0,Gold,True
+2055,Sneha,21.0,F,Delhi,2022-02-10,800.0,Gold,False
+179,Sneha,23.0,F,Pune,2021-12-05,800.0,Unknown,False
+1102,Arjun,18.0,F,Mumbai,,800.0,Bronze,False
+2326,Unknown Name,21.0,Unknown Gender,Bangalore,,800.0,Bronze,False
+604,Unknown Name,23.0,F,Mumbai,2021-12-05,800.0,Unknown,False
+867,Arjun,20.0,Unknown Gender,Bangalore,2021-12-05,800.0,Gold,True
+61,Riya,23.0,M,Bangalore,2022-01-10,800.0,Silver,False
+293,Unknown Name,18.0,M,Unknown City,2019-03-20,800.0,Gold,False
+1235,Riya,21.0,M,Delhi,2019-03-20,800.0,Silver,True
+701,Kunal,21.0,Unknown Gender,Unknown City,2020-07-15,800.0,Bronze,False
+88,Pooja,22.0,F,Bangalore,,800.0,Unknown,True
+1813,Kunal,21.0,M,Pune,2022-01-10,800.0,Bronze,False
+143,Unknown Name,20.0,F,Mumbai,2020-07-15,800.0,Gold,True
+768,Riya,19.0,F,Bangalore,2021-12-05,800.0,Gold,False
+2339,Unknown Name,19.0,M,Pune,2020-07-15,800.0,Gold,True
+630,Unknown Name,19.0,M,Bangalore,,800.0,Gold,True
+2095,Pooja,21.0,M,Pune,2021-12-05,800.0,Gold,False
+2453,Kunal,18.0,Unknown Gender,Mumbai,2022-02-10,800.0,Gold,True
+739,Kunal,22.0,F,Pune,2022-02-10,800.0,Bronze,False
+1173,Unknown Name,21.0,F,Bangalore,,800.0,Silver,False
+615,Kunal,23.0,F,Delhi,2019-03-20,800.0,Gold,False
+546,Sneha,19.0,F,Unknown City,2022-02-10,800.0,Bronze,True
+1834,Aman,21.0,F,Delhi,2022-02-10,800.0,Gold,True
+1274,Riya,22.0,F,Mumbai,2022-01-10,800.0,Silver,False
+1536,Riya,19.0,M,Delhi,,800.0,Bronze,False
+1582,Riya,21.0,M,Pune,,800.0,Unknown,False
+1089,Pooja,18.0,F,Pune,2020-07-15,800.0,Gold,False
+2072,Aman,21.0,Unknown Gender,Mumbai,2022-01-10,800.0,Silver,False
+610,Kunal,21.0,F,Delhi,2022-02-10,800.0,Gold,False
+1768,Sneha,19.0,F,Pune,2022-02-10,800.0,Bronze,True
+1525,Kunal,20.0,M,Mumbai,2019-03-20,800.0,Unknown,True
+1270,Unknown Name,22.0,M,Delhi,2021-12-05,800.0,Bronze,False
+540,Sneha,21.0,M,Delhi,2021-12-05,800.0,Unknown,True
+455,Kunal,19.0,F,Mumbai,2020-07-15,800.0,Gold,False
+1732,Aman,21.0,M,Pune,2019-03-20,800.0,Unknown,True
+1018,Kunal,22.0,Unknown Gender,Delhi,,800.0,Unknown,False
+2341,Kunal,20.0,M,Pune,2022-02-10,800.0,Gold,False
+1588,Riya,23.0,Unknown Gender,Unknown City,,800.0,Gold,True
+903,Sneha,23.0,Unknown Gender,Pune,2020-07-15,800.0,Silver,True
+1415,Unknown Name,21.0,Unknown Gender,Delhi,2019-03-20,800.0,Silver,True
+2359,Unknown Name,21.0,F,Mumbai,,800.0,Unknown,False
+771,Kunal,18.0,Unknown Gender,Delhi,2020-07-15,800.0,Unknown,True
+935,Riya,21.0,F,Unknown City,2021-12-05,800.0,Gold,False
+1467,Kunal,20.0,F,Delhi,2022-02-10,800.0,Unknown,True
+86,Riya,21.0,F,Delhi,2021-12-05,800.0,Silver,False
+2143,Kunal,21.0,F,Delhi,2019-03-20,800.0,Silver,True
+213,Pooja,21.0,M,Delhi,2021-12-05,800.0,Gold,True
+1978,Unknown Name,21.0,M,Mumbai,2020-07-15,800.0,Gold,False
+1628,Unknown Name,21.0,Unknown Gender,Unknown City,2021-12-05,800.0,Bronze,False
+592,Pooja,22.0,M,Bangalore,2021-12-05,800.0,Silver,True
+1382,Sneha,18.0,F,Unknown City,,800.0,Gold,False
+1238,Unknown Name,23.0,M,Unknown City,2020-07-15,800.0,Bronze,False
+518,Unknown Name,18.0,Unknown Gender,Delhi,2022-01-10,800.0,Unknown,False
+2106,Unknown Name,20.0,F,Unknown City,,800.0,Silver,False
+405,Unknown Name,21.0,M,Delhi,,800.0,Unknown,False
+2173,Pooja,21.0,M,Bangalore,2020-07-15,800.0,Silver,False
+2350,Unknown Name,20.0,M,Unknown City,2022-02-10,800.0,Bronze,False
+977,Kunal,21.0,M,Pune,2020-07-15,800.0,Gold,False
+589,Unknown Name,20.0,M,Pune,2019-03-20,800.0,Unknown,True
+1337,Aman,19.0,M,Unknown City,2022-02-10,800.0,Bronze,False
+821,Riya,20.0,M,Delhi,2021-12-05,800.0,Silver,False
+1003,Aman,20.0,M,Delhi,,800.0,Bronze,False
+1890,Riya,20.0,F,Pune,2022-02-10,800.0,Gold,False
+2384,Arjun,19.0,F,Pune,2021-12-05,800.0,Gold,True
+1881,Unknown Name,21.0,M,Bangalore,,800.0,Gold,True
+384,Unknown Name,19.0,M,Unknown City,,800.0,Silver,True
+573,Unknown Name,21.0,M,Pune,,800.0,Gold,False
+2013,Unknown Name,19.0,Unknown Gender,Delhi,,800.0,Gold,False
+1971,Kunal,21.0,M,Mumbai,2020-07-15,800.0,Silver,False
+2053,Aman,21.0,M,Unknown City,2020-07-15,800.0,Silver,False
+1852,Kunal,21.0,M,Unknown City,2021-12-05,800.0,Gold,False
+1548,Riya,21.0,M,Delhi,2022-02-10,800.0,Gold,True
+611,Unknown Name,21.0,Unknown Gender,Mumbai,2022-02-10,800.0,Unknown,True
+1728,Sneha,21.0,Unknown Gender,Bangalore,,800.0,Unknown,False
+1377,Kunal,22.0,M,Delhi,2021-12-05,800.0,Gold,False
+1119,Unknown Name,19.0,F,Mumbai,2020-07-15,800.0,Gold,True
+1350,Kunal,20.0,F,Delhi,,800.0,Silver,False
+1100,Pooja,22.0,M,Delhi,2022-02-10,800.0,Gold,False
+2185,Sneha,20.0,F,Bangalore,2022-01-10,800.0,Gold,False
+60,Unknown Name,19.0,M,Delhi,2022-01-10,800.0,Gold,False
+1858,Aman,23.0,Unknown Gender,Bangalore,2020-07-15,800.0,Gold,False
+11,Kunal,23.0,M,Delhi,2022-01-10,800.0,Unknown,False
+2097,Kunal,19.0,M,Mumbai,2020-07-15,800.0,Unknown,True
+1835,Aman,18.0,F,Delhi,,800.0,Gold,False
+244,Arjun,19.0,Unknown Gender,Delhi,2022-02-10,800.0,Silver,True
+1640,Kunal,20.0,Unknown Gender,Delhi,2019-03-20,800.0,Silver,False
+2467,Kunal,21.0,F,Mumbai,2022-01-10,800.0,Bronze,True
+1340,Aman,20.0,Unknown Gender,Mumbai,2019-03-20,800.0,Bronze,False
+163,Unknown Name,18.0,M,Mumbai,2019-03-20,800.0,Gold,True
+2244,Aman,21.0,F,Delhi,,800.0,Unknown,False
+2298,Aman,23.0,F,Delhi,2019-03-20,800.0,Gold,False
+1914,Kunal,23.0,M,Bangalore,2019-03-20,800.0,Gold,False
+2131,Kunal,21.0,F,Mumbai,,800.0,Silver,False
+1855,Unknown Name,21.0,M,Unknown City,2019-03-20,800.0,Unknown,True
+2311,Arjun,21.0,M,Mumbai,,800.0,Gold,False
+1200,Pooja,21.0,F,Pune,2020-07-15,800.0,Gold,False
+2497,Riya,21.0,M,Mumbai,2021-12-05,800.0,Gold,False
+1642,Riya,18.0,F,Delhi,2022-02-10,800.0,Bronze,True
+2454,Unknown Name,21.0,Unknown Gender,Bangalore,2021-12-05,800.0,Gold,False
+849,Unknown Name,18.0,M,Bangalore,2022-01-10,800.0,Unknown,True
+690,Aman,21.0,F,Bangalore,2020-07-15,800.0,Gold,False
+107,Riya,23.0,F,Pune,2022-02-10,800.0,Silver,False
+1655,Aman,21.0,F,Delhi,2020-07-15,800.0,Silver,False
+1976,Sneha,18.0,M,Unknown City,2020-07-15,800.0,Silver,False
+623,Unknown Name,21.0,F,Unknown City,2020-07-15,800.0,Silver,True
+1494,Aman,21.0,M,Delhi,2022-02-10,800.0,Gold,False
+778,Aman,23.0,M,Mumbai,2020-07-15,800.0,Silver,False
+2478,Aman,20.0,M,Unknown City,2019-03-20,800.0,Gold,False
+2282,Arjun,21.0,Unknown Gender,Bangalore,2022-01-10,800.0,Silver,False
+422,Riya,21.0,F,Unknown City,,800.0,Gold,False
+485,Unknown Name,21.0,M,Delhi,,800.0,Unknown,False
+407,Pooja,20.0,M,Bangalore,2022-01-10,800.0,Gold,False
+1606,Kunal,22.0,F,Unknown City,2022-02-10,800.0,Gold,False
+1031,Unknown Name,21.0,Unknown Gender,Unknown City,,800.0,Gold,False
+1005,Arjun,21.0,F,Bangalore,2021-12-05,800.0,Bronze,True
+2412,Pooja,21.0,Unknown Gender,Pune,2020-07-15,800.0,Silver,False
+164,Unknown Name,19.0,F,Pune,,800.0,Unknown,True
+1288,Aman,20.0,Unknown Gender,Pune,2021-12-05,800.0,Bronze,False
+1831,Riya,21.0,F,Mumbai,,800.0,Unknown,True
+1144,Kunal,18.0,M,Unknown City,,800.0,Gold,False
+625,Riya,21.0,M,Mumbai,2020-07-15,800.0,Silver,False
+1090,Unknown Name,22.0,F,Delhi,2022-02-10,800.0,Silver,True
+289,Unknown Name,23.0,Unknown Gender,Mumbai,2020-07-15,800.0,Unknown,False
+2427,Riya,18.0,F,Unknown City,2019-03-20,800.0,Unknown,False
+924,Arjun,21.0,M,Unknown City,2020-07-15,800.0,Bronze,False
+772,Sneha,23.0,F,Bangalore,2022-01-10,800.0,Bronze,False
+2248,Aman,22.0,F,Bangalore,,800.0,Unknown,True
+1087,Sneha,23.0,F,Bangalore,,800.0,Unknown,True
+1547,Sneha,18.0,F,Delhi,2019-03-20,800.0,Silver,False
+2212,Pooja,21.0,M,Pune,2019-03-20,800.0,Gold,True
+918,Arjun,19.0,F,Bangalore,2022-02-10,800.0,Gold,True
+2374,Aman,21.0,M,Delhi,,800.0,Gold,False
+1383,Aman,21.0,F,Delhi,,800.0,Gold,True
+2080,Pooja,19.0,M,Unknown City,2022-01-10,800.0,Bronze,False
+800,Sneha,19.0,M,Bangalore,2021-12-05,800.0,Gold,False
+2179,Kunal,20.0,M,Bangalore,2019-03-20,800.0,Gold,False
+1386,Unknown Name,21.0,Unknown Gender,Delhi,2019-03-20,800.0,Gold,False
+2346,Arjun,23.0,M,Delhi,2019-03-20,800.0,Unknown,False
+1458,Unknown Name,21.0,M,Bangalore,,800.0,Silver,True
+468,Unknown Name,22.0,Unknown Gender,Delhi,,800.0,Gold,False
+920,Pooja,19.0,M,Unknown City,2021-12-05,800.0,Gold,True
+1779,Unknown Name,21.0,F,Delhi,,800.0,Bronze,False
+1038,Riya,19.0,M,Mumbai,,800.0,Gold,False
+2017,Pooja,20.0,F,Delhi,2019-03-20,800.0,Silver,True
+1456,Kunal,23.0,M,Delhi,2021-12-05,800.0,Unknown,False
+1667,Unknown Name,23.0,F,Pune,2019-03-20,800.0,Silver,False
+1744,Kunal,21.0,F,Unknown City,2019-03-20,800.0,Gold,False
+1891,Aman,21.0,M,Unknown City,2019-03-20,800.0,Gold,False
+1052,Kunal,20.0,F,Unknown City,2022-01-10,800.0,Gold,True
+1572,Arjun,22.0,M,Delhi,2020-07-15,800.0,Gold,False
+2122,Pooja,22.0,F,Delhi,2022-02-10,800.0,Silver,False
+37,Riya,22.0,M,Unknown City,2022-02-10,800.0,Gold,False
+1433,Pooja,18.0,F,Delhi,2022-01-10,800.0,Unknown,False
+996,Sneha,20.0,M,Pune,,800.0,Silver,True
+136,Unknown Name,19.0,F,Delhi,2020-07-15,800.0,Gold,False
+1529,Arjun,19.0,M,Bangalore,2022-01-10,800.0,Silver,False
+2489,Unknown Name,21.0,F,Pune,2021-12-05,800.0,Bronze,False
+2369,Unknown Name,21.0,F,Delhi,2021-12-05,800.0,Unknown,True
+1256,Aman,23.0,F,Bangalore,2021-12-05,800.0,Bronze,False
+587,Aman,21.0,Unknown Gender,Bangalore,2022-02-10,800.0,Silver,False
+563,Kunal,20.0,M,Bangalore,2021-12-05,800.0,Gold,False
+265,Aman,23.0,M,Pune,2019-03-20,800.0,Bronze,False
+2340,Unknown Name,21.0,M,Delhi,2019-03-20,800.0,Bronze,False
+777,Riya,21.0,M,Unknown City,2021-12-05,800.0,Silver,False
+816,Kunal,21.0,M,Mumbai,2020-07-15,800.0,Bronze,False
+1780,Unknown Name,21.0,F,Pune,2022-02-10,800.0,Gold,False
+1165,Unknown Name,22.0,Unknown Gender,Delhi,2022-02-10,800.0,Bronze,False
+30,Kunal,20.0,M,Mumbai,,800.0,Silver,False
+1692,Aman,22.0,M,Unknown City,2020-07-15,800.0,Silver,False
+927,Sneha,19.0,M,Unknown City,2021-12-05,800.0,Gold,False
+2200,Kunal,21.0,M,Bangalore,2019-03-20,800.0,Silver,False
+972,Arjun,22.0,Unknown Gender,Unknown City,2022-01-10,800.0,Gold,False
+2256,Arjun,21.0,F,Pune,2022-02-10,800.0,Unknown,False
+581,Kunal,23.0,Unknown Gender,Delhi,2022-02-10,800.0,Unknown,True
+175,Riya,21.0,F,Bangalore,2019-03-20,800.0,Gold,False
+958,Pooja,23.0,F,Pune,2022-01-10,800.0,Silver,False
+2240,Kunal,21.0,M,Unknown City,,800.0,Silver,True
+1816,Aman,21.0,M,Pune,2020-07-15,800.0,Silver,True
+202,Kunal,23.0,F,Mumbai,2019-03-20,800.0,Gold,False
+196,Sneha,21.0,F,Delhi,2022-01-10,800.0,Gold,True
+1335,Kunal,21.0,M,Delhi,2020-07-15,800.0,Gold,True
+1201,Unknown Name,18.0,F,Pune,,800.0,Silver,False
+1486,Pooja,21.0,Unknown Gender,Delhi,2021-12-05,800.0,Gold,True
+961,Sneha,21.0,M,Unknown City,2022-02-10,800.0,Silver,True
+1212,Aman,21.0,F,Unknown City,2021-12-05,800.0,Unknown,False
+811,Pooja,21.0,F,Mumbai,2020-07-15,800.0,Gold,True
+1016,Arjun,21.0,Unknown Gender,Delhi,2019-03-20,800.0,Gold,False
+1236,Kunal,21.0,F,Delhi,,800.0,Gold,True
+271,Pooja,20.0,M,Mumbai,2022-02-10,800.0,Unknown,True
+981,Unknown Name,20.0,M,Delhi,2020-07-15,800.0,Bronze,False
+1364,Aman,23.0,M,Unknown City,2020-07-15,800.0,Silver,False
+597,Kunal,22.0,M,Mumbai,2020-07-15,800.0,Silver,True
+1882,Kunal,18.0,M,Delhi,2021-12-05,800.0,Gold,False
+1631,Arjun,21.0,F,Pune,2020-07-15,800.0,Gold,False
+96,Kunal,21.0,M,Delhi,2019-03-20,800.0,Silver,False
+1861,Unknown Name,21.0,M,Unknown City,2020-07-15,800.0,Gold,False
+310,Unknown Name,19.0,M,Delhi,2019-03-20,800.0,Gold,True
+412,Sneha,22.0,Unknown Gender,Delhi,2021-12-05,800.0,Gold,True
+2168,Unknown Name,21.0,M,Pune,2022-01-10,800.0,Gold,False
+640,Kunal,21.0,M,Delhi,2022-01-10,800.0,Gold,False
+1219,Pooja,23.0,F,Mumbai,2019-03-20,800.0,Silver,False
+2378,Kunal,19.0,M,Mumbai,,800.0,Gold,False
+1604,Sneha,21.0,F,Unknown City,2019-03-20,800.0,Unknown,True
+1823,Pooja,23.0,Unknown Gender,Delhi,2022-02-10,800.0,Bronze,False
+729,Pooja,23.0,M,Delhi,2020-07-15,800.0,Silver,True
+1599,Sneha,21.0,F,Delhi,,800.0,Silver,False
+76,Kunal,21.0,M,Delhi,2022-01-10,800.0,Gold,False
+1414,Aman,21.0,M,Delhi,2021-12-05,800.0,Gold,True
+671,Riya,19.0,Unknown Gender,Unknown City,2020-07-15,800.0,Silver,False
+950,Kunal,18.0,M,Delhi,2019-03-20,800.0,Gold,True
+147,Kunal,21.0,Unknown Gender,Unknown City,2021-12-05,800.0,Gold,True
+1418,Kunal,21.0,M,Bangalore,,800.0,Gold,True
+2353,Riya,22.0,F,Mumbai,,800.0,Gold,False
+2161,Aman,21.0,F,Unknown City,2019-03-20,800.0,Silver,True
+280,Kunal,21.0,M,Delhi,2019-03-20,800.0,Gold,False
+585,Riya,20.0,M,Delhi,2019-03-20,800.0,Unknown,False
+945,Kunal,18.0,M,Pune,2019-03-20,800.0,Silver,False
+808,Aman,23.0,F,Pune,2022-02-10,800.0,Silver,False
+1483,Unknown Name,19.0,Unknown Gender,Delhi,,800.0,Silver,False
+331,Unknown Name,22.0,M,Bangalore,2022-02-10,800.0,Gold,False
+1615,Kunal,19.0,M,Bangalore,2019-03-20,800.0,Bronze,True
+2104,Kunal,20.0,F,Delhi,2022-01-10,800.0,Gold,False
+1239,Aman,19.0,M,Mumbai,2021-12-05,800.0,Silver,True
+657,Kunal,21.0,M,Pune,,800.0,Silver,True
+140,Kunal,18.0,Unknown Gender,Delhi,2020-07-15,800.0,Gold,False
+508,Riya,21.0,M,Pune,2022-01-10,800.0,Bronze,False
+1445,Aman,19.0,F,Pune,2020-07-15,800.0,Gold,True
+294,Unknown Name,18.0,Unknown Gender,Bangalore,2021-12-05,800.0,Gold,False
+171,Aman,21.0,M,Delhi,,800.0,Gold,False
+1174,Unknown Name,22.0,M,Pune,2022-01-10,800.0,Gold,False
+774,Riya,21.0,F,Bangalore,2020-07-15,800.0,Bronze,True
+733,Kunal,22.0,M,Delhi,,800.0,Unknown,False
+803,Sneha,21.0,F,Mumbai,,800.0,Gold,False
+2046,Arjun,21.0,M,Unknown City,2022-02-10,800.0,Gold,False
+2043,Kunal,21.0,Unknown Gender,Delhi,2022-01-10,800.0,Silver,False
+1142,Kunal,18.0,Unknown Gender,Unknown City,2019-03-20,800.0,Gold,False
+2348,Pooja,19.0,M,Pune,2020-07-15,800.0,Gold,False
+1761,Kunal,21.0,M,Bangalore,,800.0,Gold,False
+2446,Kunal,21.0,F,Unknown City,2021-12-05,800.0,Gold,True
+513,Unknown Name,21.0,F,Delhi,2020-07-15,800.0,Gold,False
+1803,Unknown Name,19.0,M,Pune,2020-07-15,800.0,Gold,True
+745,Kunal,21.0,M,Mumbai,2021-12-05,800.0,Silver,False
+704,Kunal,21.0,Unknown Gender,Pune,2020-07-15,800.0,Unknown,True
+691,Kunal,21.0,F,Pune,2019-03-20,500.0,Gold,True
+8,Sneha,22.0,M,Delhi,2019-03-20,500.0,Silver,False
+320,Riya,21.0,M,Pune,2021-12-05,500.0,Gold,True
+603,Aman,20.0,M,Unknown City,2022-01-10,500.0,Gold,False
+128,Kunal,20.0,M,Delhi,2022-02-10,500.0,Silver,True
+1699,Kunal,21.0,M,Unknown City,2022-02-10,500.0,Silver,True
+2312,Unknown Name,22.0,M,Unknown City,,500.0,Unknown,False
+618,Riya,22.0,F,Delhi,2022-01-10,500.0,Silver,False
+2088,Kunal,21.0,Unknown Gender,Delhi,2022-01-10,500.0,Silver,True
+2209,Riya,21.0,M,Pune,2019-03-20,500.0,Gold,False
+1438,Aman,21.0,F,Mumbai,2022-01-10,500.0,Silver,True
+2264,Aman,23.0,Unknown Gender,Delhi,2020-07-15,500.0,Silver,False
+2375,Pooja,18.0,M,Mumbai,2022-02-10,500.0,Silver,False
+2205,Unknown Name,21.0,F,Bangalore,,500.0,Silver,False
+1862,Arjun,21.0,M,Mumbai,2021-12-05,500.0,Gold,True
+1128,Sneha,22.0,M,Bangalore,,500.0,Gold,False
+1518,Arjun,23.0,Unknown Gender,Delhi,2021-12-05,500.0,Gold,False
+201,Kunal,21.0,M,Delhi,,500.0,Silver,True
+1234,Unknown Name,21.0,Unknown Gender,Delhi,2020-07-15,500.0,Gold,True
+922,Arjun,19.0,M,Unknown City,2021-12-05,500.0,Bronze,True
+613,Pooja,23.0,M,Pune,2020-07-15,500.0,Silver,False
+132,Unknown Name,18.0,Unknown Gender,Delhi,2022-02-10,500.0,Bronze,True
+1116,Riya,23.0,F,Unknown City,,500.0,Unknown,True
+570,Unknown Name,21.0,F,Pune,2020-07-15,500.0,Bronze,False
+923,Unknown Name,23.0,Unknown Gender,Pune,2020-07-15,500.0,Silver,True
+2307,Aman,21.0,M,Delhi,,500.0,Gold,False
+2094,Aman,21.0,M,Pune,2019-03-20,500.0,Silver,False
+371,Unknown Name,21.0,M,Pune,2022-02-10,500.0,Gold,True
+448,Aman,18.0,M,Unknown City,2022-01-10,500.0,Unknown,False
+116,Unknown Name,23.0,M,Mumbai,2022-01-10,500.0,Silver,False
+1343,Unknown Name,22.0,M,Bangalore,2022-01-10,500.0,Bronze,False
+2087,Arjun,18.0,F,Bangalore,2019-03-20,500.0,Bronze,False
+1691,Unknown Name,21.0,M,Delhi,2022-01-10,500.0,Silver,True
+1466,Pooja,19.0,M,Unknown City,2020-07-15,500.0,Silver,False
+2439,Unknown Name,20.0,F,Delhi,,500.0,Silver,False
+1923,Aman,21.0,F,Unknown City,2022-01-10,500.0,Silver,False
+376,Pooja,21.0,M,Pune,,500.0,Unknown,False
+1856,Aman,21.0,F,Mumbai,,500.0,Gold,False
+2476,Unknown Name,21.0,M,Unknown City,,500.0,Unknown,False
+1252,Aman,21.0,M,Delhi,2020-07-15,500.0,Unknown,False
+841,Pooja,23.0,M,Pune,2021-12-05,500.0,Gold,False
+2279,Aman,21.0,M,Delhi,2022-01-10,500.0,Bronze,False
+2347,Unknown Name,19.0,Unknown Gender,Delhi,2022-01-10,500.0,Gold,False
+1943,Unknown Name,21.0,M,Delhi,2022-02-10,500.0,Bronze,False
+2040,Arjun,21.0,M,Pune,2019-03-20,500.0,Bronze,False
+572,Unknown Name,22.0,M,Bangalore,2020-07-15,500.0,Bronze,False
+2089,Pooja,18.0,M,Delhi,,500.0,Bronze,True
+2015,Riya,21.0,M,Pune,2020-07-15,500.0,Silver,False
+2103,Aman,19.0,F,Pune,,500.0,Gold,True
+1008,Sneha,21.0,F,Delhi,2022-01-10,500.0,Unknown,False
+2028,Aman,21.0,M,Mumbai,,500.0,Silver,False
+363,Unknown Name,19.0,M,Mumbai,,500.0,Silver,False
+356,Kunal,21.0,M,Bangalore,,500.0,Gold,False
+658,Pooja,21.0,M,Mumbai,2021-12-05,500.0,Gold,True
+2294,Kunal,21.0,M,Pune,2021-12-05,500.0,Unknown,False
+2386,Aman,23.0,M,Mumbai,2020-07-15,500.0,Silver,True
+2231,Aman,20.0,F,Mumbai,2019-03-20,500.0,Silver,False
+2090,Aman,21.0,Unknown Gender,Mumbai,2021-12-05,500.0,Gold,False
+1689,Aman,21.0,Unknown Gender,Delhi,2021-12-05,500.0,Silver,False
+2172,Unknown Name,18.0,Unknown Gender,Bangalore,2021-12-05,500.0,Bronze,True
+1302,Unknown Name,21.0,M,Delhi,,500.0,Unknown,True
+1205,Aman,21.0,F,Bangalore,,500.0,Gold,False
+2203,Pooja,20.0,M,Mumbai,2021-12-05,500.0,Bronze,False
+2051,Aman,21.0,F,Bangalore,2022-02-10,500.0,Silver,True
+2034,Arjun,21.0,M,Mumbai,,500.0,Silver,False
+1280,Arjun,22.0,Unknown Gender,Bangalore,2022-02-10,500.0,Gold,False
+804,Aman,21.0,F,Pune,,500.0,Gold,False
+707,Unknown Name,21.0,F,Pune,2020-07-15,500.0,Unknown,True
+624,Unknown Name,20.0,M,Delhi,2019-03-20,500.0,Unknown,False
+1999,Pooja,22.0,M,Mumbai,2020-07-15,500.0,Gold,False
+1289,Unknown Name,21.0,Unknown Gender,Delhi,,500.0,Silver,True
+775,Riya,22.0,F,Pune,2021-12-05,500.0,Silver,False
+2321,Arjun,18.0,M,Pune,,500.0,Unknown,True
+168,Pooja,20.0,M,Bangalore,2021-12-05,500.0,Silver,False
+1610,Kunal,23.0,M,Bangalore,,500.0,Gold,False
+1370,Unknown Name,22.0,M,Delhi,2020-07-15,500.0,Unknown,False
+391,Unknown Name,21.0,F,Bangalore,2021-12-05,500.0,Gold,False
+1232,Unknown Name,21.0,M,Bangalore,2022-01-10,500.0,Gold,True
+727,Riya,20.0,M,Mumbai,2022-01-10,500.0,Gold,False
+609,Sneha,21.0,M,Mumbai,2020-07-15,500.0,Bronze,False
+2433,Aman,21.0,F,Pune,2020-07-15,500.0,Gold,False
+108,Pooja,21.0,Unknown Gender,Delhi,2020-07-15,500.0,Gold,False
+1041,Pooja,18.0,F,Mumbai,2022-02-10,500.0,Silver,True
+1115,Riya,21.0,M,Mumbai,2022-02-10,500.0,Silver,False
+773,Arjun,18.0,M,Bangalore,2019-03-20,500.0,Silver,False
+2316,Sneha,21.0,F,Bangalore,2021-12-05,500.0,Gold,False
+1195,Arjun,21.0,F,Delhi,2019-03-20,500.0,Silver,False
+364,Unknown Name,21.0,M,Pune,2019-03-20,500.0,Bronze,True
+119,Unknown Name,18.0,F,Delhi,2019-03-20,500.0,Gold,False
+13,Aman,18.0,M,Delhi,2022-01-10,500.0,Gold,True
+149,Unknown Name,19.0,M,Bangalore,,500.0,Bronze,True
+29,Riya,22.0,F,Pune,2022-01-10,500.0,Gold,False
+523,Unknown Name,20.0,F,Unknown City,,500.0,Gold,True
+814,Pooja,23.0,M,Unknown City,2022-01-10,500.0,Unknown,False
+1095,Unknown Name,21.0,F,Delhi,2021-12-05,500.0,Bronze,False
+2469,Unknown Name,21.0,M,Delhi,2019-03-20,500.0,Unknown,True
+649,Aman,21.0,M,Delhi,,500.0,Bronze,False
+766,Unknown Name,19.0,F,Bangalore,,500.0,Gold,True
+886,Riya,23.0,M,Delhi,2020-07-15,500.0,Gold,False
+1758,Pooja,22.0,M,Delhi,,500.0,Gold,False
+998,Aman,21.0,F,Bangalore,,500.0,Silver,True
+594,Sneha,18.0,M,Delhi,,500.0,Gold,True
+868,Aman,21.0,Unknown Gender,Unknown City,2022-02-10,500.0,Silver,False
+1641,Pooja,23.0,M,Unknown City,,500.0,Bronze,False
+1652,Arjun,23.0,F,Mumbai,,500.0,Gold,False
+564,Arjun,21.0,F,Mumbai,2022-01-10,500.0,Unknown,True
+2278,Unknown Name,20.0,M,Unknown City,2021-12-05,500.0,Silver,True
+1060,Pooja,22.0,M,Delhi,2022-02-10,500.0,Gold,False
+1419,Kunal,23.0,F,Delhi,2022-01-10,500.0,Unknown,False
+1030,Unknown Name,20.0,F,Mumbai,2022-02-10,500.0,Unknown,False
+1793,Aman,21.0,M,Delhi,2022-02-10,500.0,Unknown,False
+2098,Riya,21.0,Unknown Gender,Delhi,,500.0,Silver,False
+1014,Arjun,22.0,F,Mumbai,2022-02-10,500.0,Silver,False
+1643,Pooja,23.0,Unknown Gender,Mumbai,2020-07-15,500.0,Gold,True
+127,Sneha,18.0,M,Unknown City,,500.0,Gold,True
+2376,Kunal,21.0,Unknown Gender,Pune,2022-02-10,500.0,Silver,True
+499,Sneha,21.0,M,Bangalore,2019-03-20,500.0,Gold,False
+1533,Riya,23.0,M,Unknown City,2022-01-10,500.0,Unknown,False
+182,Riya,22.0,M,Bangalore,2022-02-10,500.0,Unknown,True
+2039,Pooja,21.0,F,Delhi,2020-07-15,500.0,Silver,True
+1524,Unknown Name,22.0,F,Bangalore,2022-02-10,500.0,Silver,False
+2102,Pooja,21.0,M,Pune,2022-02-10,500.0,Gold,False
+1283,Unknown Name,18.0,M,Delhi,2021-12-05,500.0,Unknown,True
+2008,Riya,18.0,M,Unknown City,,500.0,Unknown,False
+1755,Sneha,23.0,F,Bangalore,,500.0,Silver,False
+1404,Kunal,21.0,M,Pune,2022-01-10,500.0,Unknown,False
+2105,Kunal,19.0,Unknown Gender,Mumbai,2022-01-10,500.0,Gold,True
+1482,Riya,21.0,F,Delhi,2022-01-10,500.0,Gold,False
+1530,Kunal,22.0,F,Delhi,2022-02-10,500.0,Silver,True
+1002,Pooja,18.0,M,Pune,2022-02-10,500.0,Unknown,True
+2201,Kunal,21.0,F,Pune,2022-01-10,500.0,Silver,False
+988,Aman,21.0,F,Bangalore,,500.0,Silver,True
+1125,Sneha,19.0,F,Delhi,2019-03-20,500.0,Gold,False
+769,Unknown Name,19.0,Unknown Gender,Delhi,,500.0,Gold,False
+457,Kunal,21.0,F,Mumbai,2019-03-20,500.0,Silver,False
+2333,Aman,23.0,M,Bangalore,,500.0,Gold,True
+979,Kunal,23.0,F,Unknown City,,500.0,Silver,False
+1293,Aman,18.0,M,Delhi,2022-01-10,500.0,Gold,False
+673,Kunal,21.0,M,Bangalore,2019-03-20,500.0,Unknown,False
+87,Kunal,21.0,F,Bangalore,2021-12-05,500.0,Gold,True
+1491,Aman,21.0,M,Bangalore,2021-12-05,500.0,Bronze,False
+959,Arjun,19.0,M,Delhi,2020-07-15,500.0,Silver,False
+1884,Unknown Name,18.0,M,Mumbai,2020-07-15,500.0,Gold,False
+1001,Aman,20.0,F,Pune,2021-12-05,500.0,Unknown,True
+332,Kunal,21.0,F,Delhi,2021-12-05,500.0,Silver,True
+2445,Unknown Name,19.0,M,Bangalore,2020-07-15,500.0,Unknown,True
+221,Kunal,20.0,F,Pune,2021-12-05,500.0,Silver,True
+2382,Riya,20.0,M,Delhi,2020-07-15,500.0,Gold,False
+2423,Kunal,18.0,F,Bangalore,2020-07-15,500.0,Gold,False
+1668,Aman,21.0,F,Bangalore,2020-07-15,500.0,Gold,False
+1314,Aman,23.0,F,Bangalore,2019-03-20,500.0,Bronze,False
+651,Pooja,18.0,M,Pune,2022-01-10,500.0,Gold,False
+115,Aman,21.0,F,Delhi,2022-01-10,500.0,Bronze,True
+574,Aman,18.0,F,Pune,,500.0,Gold,True
+2434,Unknown Name,21.0,M,Mumbai,,500.0,Silver,False
+1210,Pooja,21.0,F,Delhi,2020-07-15,500.0,Silver,False
+1475,Riya,19.0,M,Mumbai,2020-07-15,500.0,Gold,True
+1925,Sneha,21.0,F,Delhi,2019-03-20,500.0,Silver,True
+290,Unknown Name,18.0,F,Mumbai,2019-03-20,500.0,Unknown,False
+1354,Kunal,20.0,M,Bangalore,,500.0,Unknown,True
+2370,Riya,19.0,F,Pune,,500.0,Bronze,True
+1498,Aman,23.0,F,Bangalore,,500.0,Gold,False
+1989,Pooja,21.0,F,Delhi,2020-07-15,500.0,Silver,False
+2281,Aman,21.0,M,Bangalore,2022-01-10,500.0,Silver,False
+1825,Unknown Name,23.0,M,Pune,,500.0,Unknown,False
+516,Unknown Name,21.0,M,Mumbai,2022-01-10,500.0,Unknown,False
+751,Riya,21.0,M,Delhi,2022-02-10,500.0,Gold,False
+2432,Arjun,20.0,M,Delhi,,500.0,Gold,True
+672,Aman,20.0,F,Delhi,2022-02-10,500.0,Silver,False
+106,Sneha,18.0,M,Pune,2022-02-10,500.0,Silver,False
+437,Aman,21.0,M,Unknown City,2021-12-05,500.0,Silver,True
+2306,Unknown Name,18.0,F,Unknown City,2022-01-10,500.0,Unknown,False
+1621,Sneha,19.0,F,Delhi,2022-01-10,500.0,Silver,False
+770,Riya,21.0,F,Pune,2021-12-05,500.0,Silver,True
+1397,Pooja,18.0,M,Pune,2022-01-10,500.0,Gold,True
+1995,Arjun,22.0,F,Unknown City,2022-01-10,500.0,Gold,False
+917,Unknown Name,22.0,F,Bangalore,2020-07-15,500.0,Unknown,False
+1065,Sneha,18.0,F,Bangalore,,500.0,Unknown,False
+2012,Kunal,21.0,Unknown Gender,Delhi,2020-07-15,500.0,Unknown,False
+1837,Kunal,22.0,F,Delhi,2021-12-05,500.0,Gold,True
+495,Pooja,21.0,M,Delhi,,500.0,Silver,False
+717,Pooja,18.0,M,Unknown City,2020-07-15,500.0,Bronze,False
+873,Kunal,22.0,F,Mumbai,,500.0,Bronze,True
+709,Aman,20.0,F,Delhi,2021-12-05,500.0,Unknown,False
+388,Kunal,23.0,M,Pune,,500.0,Silver,False
+267,Kunal,20.0,M,Pune,,500.0,Unknown,True
+1208,Riya,22.0,Unknown Gender,Delhi,2022-02-10,500.0,Gold,True
+558,Unknown Name,20.0,F,Delhi,2021-12-05,500.0,Gold,False
+1297,Sneha,21.0,F,Mumbai,2021-12-05,500.0,Gold,False
+443,Aman,21.0,Unknown Gender,Mumbai,2022-02-10,500.0,Gold,False
+718,Kunal,21.0,M,Delhi,,500.0,Gold,True
+2153,Arjun,20.0,Unknown Gender,Delhi,,500.0,Silver,False
+908,Kunal,21.0,F,Mumbai,2019-03-20,500.0,Gold,True
+1162,Unknown Name,23.0,M,Delhi,2020-07-15,500.0,Silver,False
+853,Kunal,19.0,Unknown Gender,Delhi,,500.0,Gold,False
+1973,Aman,22.0,M,Bangalore,2022-01-10,500.0,Unknown,True
+2194,Kunal,21.0,M,Mumbai,2022-02-10,500.0,Gold,False
+256,Aman,19.0,M,Delhi,2021-12-05,500.0,Bronze,True
+696,Kunal,21.0,F,Bangalore,,500.0,Gold,True
+390,Sneha,21.0,F,Delhi,2022-02-10,500.0,Unknown,False
+1738,Arjun,21.0,Unknown Gender,Delhi,,500.0,Gold,False
+460,Aman,19.0,Unknown Gender,Delhi,,500.0,Gold,False
+2379,Pooja,21.0,F,Pune,2021-12-05,500.0,Unknown,False
+1627,Aman,20.0,F,Delhi,2020-07-15,500.0,Silver,True
+2310,Unknown Name,18.0,M,Pune,2020-07-15,500.0,Silver,False
+2381,Aman,22.0,Unknown Gender,Delhi,2022-01-10,500.0,Bronze,False
+676,Riya,21.0,M,Delhi,2021-12-05,500.0,Gold,False
+2357,Sneha,18.0,M,Delhi,2022-02-10,500.0,Gold,False
+2336,Pooja,22.0,M,Unknown City,2022-02-10,500.0,Silver,False
+22,Kunal,21.0,F,Mumbai,2020-07-15,500.0,Unknown,False
+438,Sneha,23.0,Unknown Gender,Unknown City,2022-02-10,500.0,Silver,False
+674,Riya,23.0,M,Pune,2022-02-10,500.0,Bronze,False
+1310,Aman,20.0,M,Mumbai,2019-03-20,500.0,Gold,False
+1298,Aman,21.0,M,Delhi,2022-01-10,500.0,Gold,False
+1575,Aman,20.0,M,Mumbai,2019-03-20,500.0,Silver,True
+1442,Aman,20.0,F,Pune,2021-12-05,500.0,Gold,True
+1543,Sneha,23.0,M,Unknown City,,500.0,Silver,True
+683,Aman,19.0,M,Delhi,2019-03-20,500.0,Gold,False
+2297,Kunal,21.0,F,Mumbai,,500.0,Silver,False
+456,Unknown Name,18.0,M,Unknown City,,500.0,Silver,False
+350,Pooja,21.0,M,Bangalore,2022-02-10,500.0,Gold,True
+1358,Riya,18.0,F,Unknown City,2022-02-10,500.0,Gold,False
+1665,Pooja,21.0,M,Unknown City,2022-02-10,500.0,Unknown,False
+895,Pooja,22.0,M,Delhi,,500.0,Bronze,False
+2320,Pooja,21.0,Unknown Gender,Bangalore,2020-07-15,500.0,Silver,True
+1762,Aman,21.0,Unknown Gender,Pune,,500.0,Bronze,True
+2296,Unknown Name,21.0,M,Delhi,,500.0,Silver,False
+1051,Aman,22.0,M,Mumbai,2019-03-20,500.0,Silver,True
+2239,Kunal,19.0,Unknown Gender,Unknown City,2022-02-10,500.0,Unknown,True
+789,Pooja,19.0,F,Pune,2020-07-15,500.0,Silver,False
+2421,Arjun,19.0,M,Bangalore,,500.0,Unknown,False
+1603,Sneha,19.0,M,Delhi,2020-07-15,500.0,Silver,False
+533,Aman,18.0,F,Delhi,2019-03-20,500.0,Gold,True
+949,Unknown Name,21.0,Unknown Gender,Mumbai,,500.0,Silver,True
+527,Arjun,20.0,F,Pune,2022-01-10,500.0,Silver,True
+764,Arjun,21.0,M,Pune,2022-02-10,500.0,Silver,False
+229,Aman,21.0,Unknown Gender,Pune,,500.0,Gold,False
+380,Kunal,21.0,M,Pune,,500.0,Gold,False
+39,Sneha,21.0,M,Unknown City,2019-03-20,500.0,Gold,True
+1828,Kunal,19.0,M,Pune,2022-01-10,500.0,Silver,False
+1639,Kunal,20.0,F,Unknown City,2022-02-10,500.0,Gold,True
+687,Sneha,18.0,M,Mumbai,,500.0,Silver,False
+194,Aman,21.0,F,Mumbai,,500.0,Gold,False
+2063,Unknown Name,21.0,Unknown Gender,Bangalore,2022-01-10,500.0,Gold,False
+247,Arjun,21.0,F,Unknown City,,500.0,Gold,False
+1230,Kunal,19.0,M,Mumbai,,500.0,Gold,False
+741,Aman,21.0,M,Unknown City,2021-12-05,500.0,Gold,True
+907,Arjun,21.0,F,Mumbai,2022-02-10,500.0,Gold,True
+646,Unknown Name,22.0,M,Delhi,,500.0,Gold,False
+451,Aman,19.0,F,Unknown City,2022-02-10,500.0,Silver,True
+1975,Unknown Name,18.0,F,Bangalore,2019-03-20,500.0,Gold,False
+276,Unknown Name,19.0,M,Pune,2019-03-20,500.0,Unknown,False
+2118,Unknown Name,19.0,M,Delhi,,500.0,Unknown,False
+1977,Arjun,21.0,M,Delhi,2019-03-20,500.0,Gold,False
+1964,Pooja,20.0,M,Unknown City,2021-12-05,500.0,Gold,True
+2475,Unknown Name,20.0,F,Mumbai,2019-03-20,500.0,Bronze,True
+1103,Sneha,22.0,F,Delhi,2021-12-05,500.0,Silver,False
+153,Unknown Name,21.0,Unknown Gender,Mumbai,2020-07-15,500.0,Gold,True
+1580,Aman,19.0,F,Mumbai,2022-02-10,500.0,Silver,False
+2368,Sneha,23.0,M,Bangalore,2020-07-15,500.0,Gold,True
+2335,Arjun,21.0,Unknown Gender,Delhi,2022-02-10,500.0,Bronze,True
+1577,Kunal,18.0,M,Delhi,2022-02-10,500.0,Unknown,True
+1226,Unknown Name,23.0,M,Delhi,2020-07-15,500.0,Gold,False
+496,Sneha,23.0,F,Mumbai,2020-07-15,500.0,Gold,False
+1110,Aman,18.0,M,Unknown City,2022-01-10,500.0,Gold,True
+357,Kunal,21.0,M,Bangalore,,500.0,Gold,False
+1952,Riya,18.0,M,Delhi,,500.0,Gold,False
+1448,Aman,21.0,F,Delhi,2021-12-05,500.0,Bronze,False
+2273,Arjun,23.0,Unknown Gender,Pune,2020-07-15,500.0,Bronze,False
+1114,Aman,23.0,M,Mumbai,,500.0,Gold,True
+1786,Unknown Name,18.0,M,Delhi,2021-12-05,500.0,Gold,False
+306,Aman,21.0,M,Delhi,2020-07-15,500.0,Gold,False
+474,Unknown Name,22.0,F,Bangalore,2019-03-20,500.0,Silver,False
+2056,Pooja,21.0,M,Pune,,500.0,Gold,False
+1698,Unknown Name,21.0,F,Pune,2019-03-20,500.0,Unknown,False
+501,Unknown Name,21.0,M,Delhi,,500.0,Bronze,True
+270,Pooja,21.0,M,Unknown City,2022-02-10,500.0,Unknown,False
+2142,Unknown Name,22.0,M,Delhi,2019-03-20,500.0,Gold,False
+1027,Sneha,19.0,Unknown Gender,Mumbai,2021-12-05,500.0,Silver,True
+1774,Unknown Name,21.0,M,Delhi,2021-12-05,500.0,Gold,False
+1753,Kunal,23.0,F,Delhi,2022-02-10,500.0,Unknown,True
+642,Unknown Name,21.0,M,Mumbai,,300.0,Silver,True
+203,Unknown Name,21.0,Unknown Gender,Delhi,,300.0,Bronze,False
+2009,Riya,19.0,M,Mumbai,2022-01-10,300.0,Unknown,True
+1258,Pooja,23.0,M,Unknown City,2021-12-05,300.0,Gold,True
+1629,Unknown Name,19.0,M,Delhi,2022-02-10,300.0,Gold,False
+2324,Sneha,22.0,M,Delhi,,300.0,Bronze,True
+444,Kunal,19.0,M,Delhi,2019-03-20,300.0,Gold,False
+467,Pooja,21.0,F,Delhi,,300.0,Bronze,True
+1771,Aman,21.0,F,Bangalore,2022-02-10,300.0,Silver,False
+1922,Arjun,19.0,F,Unknown City,2022-01-10,300.0,Silver,False
+311,Unknown Name,23.0,F,Unknown City,,300.0,Silver,False
+490,Arjun,21.0,F,Delhi,2019-03-20,300.0,Gold,False
+2114,Aman,23.0,M,Pune,,300.0,Gold,False
+301,Kunal,18.0,F,Bangalore,2022-02-10,300.0,Gold,False
+742,Riya,19.0,M,Delhi,2022-02-10,300.0,Unknown,False
+2420,Arjun,21.0,Unknown Gender,Unknown City,,300.0,Unknown,False
+425,Unknown Name,22.0,F,Delhi,2022-01-10,300.0,Gold,False
+1854,Unknown Name,20.0,Unknown Gender,Bangalore,2022-01-10,300.0,Silver,True
+1449,Kunal,19.0,M,Bangalore,,300.0,Bronze,True
+375,Riya,22.0,M,Mumbai,2021-12-05,300.0,Silver,False
+1662,Arjun,20.0,Unknown Gender,Mumbai,2022-01-10,300.0,Bronze,False
+1707,Unknown Name,21.0,F,Delhi,2022-01-10,300.0,Gold,False
+697,Kunal,21.0,M,Pune,,300.0,Silver,True
+656,Aman,22.0,M,Bangalore,,300.0,Gold,False
+1792,Arjun,20.0,F,Bangalore,2020-07-15,300.0,Silver,False
+1632,Unknown Name,22.0,F,Mumbai,2021-12-05,300.0,Unknown,False
+1460,Aman,21.0,M,Delhi,2021-12-05,300.0,Silver,False
+1137,Aman,20.0,M,Delhi,,300.0,Unknown,False
+1153,Kunal,18.0,M,Pune,2022-01-10,300.0,Silver,False
+2062,Pooja,21.0,M,Delhi,2019-03-20,300.0,Unknown,False
+399,Unknown Name,23.0,Unknown Gender,Delhi,2021-12-05,300.0,Bronze,False
+953,Sneha,21.0,F,Delhi,2022-02-10,300.0,Unknown,False
+72,Pooja,23.0,F,Mumbai,2022-01-10,300.0,Silver,False
+1194,Aman,21.0,Unknown Gender,Pune,2022-01-10,300.0,Gold,True
+304,Unknown Name,21.0,F,Bangalore,2022-02-10,300.0,Gold,False
+779,Aman,23.0,M,Delhi,2020-07-15,300.0,Silver,False
+423,Aman,18.0,M,Mumbai,2019-03-20,300.0,Silver,True
+1286,Aman,21.0,M,Delhi,,300.0,Bronze,True
+1592,Unknown Name,21.0,M,Unknown City,2022-01-10,300.0,Silver,True
+1736,Sneha,23.0,F,Delhi,2022-01-10,300.0,Gold,False
+1752,Aman,22.0,M,Delhi,2020-07-15,300.0,Gold,False
+1757,Kunal,21.0,M,Mumbai,2022-01-10,300.0,Gold,True
+1602,Arjun,21.0,Unknown Gender,Unknown City,2019-03-20,300.0,Silver,False
+1571,Unknown Name,21.0,F,Delhi,2022-02-10,300.0,Silver,False
+341,Aman,18.0,M,Pune,2020-07-15,300.0,Gold,False
+2329,Kunal,21.0,M,Mumbai,2021-12-05,300.0,Gold,False
+1764,Kunal,23.0,F,Bangalore,2022-02-10,300.0,Silver,True
+324,Kunal,21.0,F,Delhi,2019-03-20,300.0,Gold,True
+2229,Kunal,21.0,Unknown Gender,Delhi,2020-07-15,300.0,Gold,True
+1797,Aman,22.0,Unknown Gender,Delhi,2020-07-15,300.0,Unknown,True
+152,Kunal,21.0,F,Pune,2021-12-05,300.0,Bronze,False
+1368,Aman,23.0,M,Mumbai,2022-01-10,300.0,Gold,False
+65,Aman,21.0,Unknown Gender,Delhi,2019-03-20,300.0,Bronze,False
+1163,Kunal,20.0,Unknown Gender,Unknown City,2019-03-20,300.0,Silver,False
+2418,Sneha,22.0,F,Mumbai,2021-12-05,300.0,Gold,False
+2127,Unknown Name,21.0,M,Bangalore,,300.0,Silver,False
+1827,Pooja,23.0,F,Delhi,2022-02-10,300.0,Bronze,False
+273,Unknown Name,18.0,F,Mumbai,2022-02-10,300.0,Silver,True
+493,Unknown Name,20.0,M,Mumbai,2022-02-10,300.0,Silver,False
+1126,Aman,21.0,Unknown Gender,Bangalore,2022-01-10,300.0,Bronze,True
+1191,Aman,21.0,M,Unknown City,2020-07-15,300.0,Bronze,False
+744,Arjun,21.0,Unknown Gender,Pune,2019-03-20,300.0,Bronze,False
+338,Kunal,23.0,M,Delhi,2020-07-15,300.0,Gold,False
+349,Sneha,22.0,M,Unknown City,2022-02-10,300.0,Silver,False
+498,Pooja,21.0,F,Delhi,2020-07-15,300.0,Bronze,False
+428,Kunal,21.0,M,Mumbai,2022-01-10,300.0,Gold,False
+776,Aman,21.0,M,Pune,2022-01-10,300.0,Gold,False
+1595,Arjun,23.0,M,Pune,2021-12-05,300.0,Silver,True
+1954,Sneha,21.0,F,Pune,2022-02-10,300.0,Gold,True
+1820,Unknown Name,21.0,M,Mumbai,2020-07-15,300.0,Silver,True
+2393,Aman,19.0,F,Delhi,2022-02-10,300.0,Gold,False
+601,Unknown Name,22.0,F,Mumbai,,300.0,Bronze,False
+549,Kunal,22.0,F,Delhi,2021-12-05,300.0,Gold,False
+1664,Aman,21.0,M,Pune,2021-12-05,300.0,Unknown,False
+445,Sneha,23.0,M,Bangalore,2022-02-10,300.0,Gold,True
+241,Riya,21.0,F,Unknown City,2022-01-10,300.0,Silver,False
+2238,Aman,22.0,F,Delhi,,300.0,Silver,False
+1869,Unknown Name,21.0,Unknown Gender,Bangalore,2019-03-20,300.0,Bronze,False
+2215,Unknown Name,22.0,F,Mumbai,2022-01-10,300.0,Silver,True
+820,Aman,19.0,M,Mumbai,2020-07-15,300.0,Silver,True
+976,Arjun,21.0,Unknown Gender,Mumbai,2021-12-05,300.0,Bronze,False
+1713,Aman,19.0,M,Pune,,300.0,Bronze,True
+1613,Riya,20.0,F,Bangalore,2020-07-15,300.0,Silver,True
+228,Kunal,22.0,Unknown Gender,Delhi,2020-07-15,300.0,Silver,True
+750,Pooja,23.0,F,Pune,2022-02-10,300.0,Unknown,True
+2000,Arjun,22.0,M,Unknown City,2019-03-20,300.0,Silver,False
+971,Riya,18.0,M,Delhi,2020-07-15,300.0,Bronze,False
+3,Pooja,21.0,Unknown Gender,Delhi,2022-01-10,300.0,Silver,True
+401,Kunal,20.0,F,Delhi,2020-07-15,300.0,Gold,False
+541,Sneha,20.0,F,Pune,2020-07-15,300.0,Silver,False
+242,Unknown Name,23.0,F,Delhi,,300.0,Silver,True
+410,Arjun,21.0,M,Unknown City,,300.0,Gold,False
+1638,Aman,20.0,M,Mumbai,2020-07-15,300.0,Silver,True
+42,Sneha,18.0,Unknown Gender,Bangalore,2022-01-10,300.0,Gold,False
+1625,Arjun,23.0,F,Pune,,300.0,Silver,True
+835,Kunal,21.0,M,Mumbai,2020-07-15,300.0,Silver,True
+38,Pooja,21.0,Unknown Gender,Pune,,300.0,Gold,False
+305,Aman,21.0,M,Delhi,2022-02-10,300.0,Gold,True
+253,Unknown Name,18.0,Unknown Gender,Unknown City,,300.0,Silver,False
+1325,Aman,21.0,M,Bangalore,,300.0,Gold,True
+861,Arjun,21.0,F,Pune,2020-07-15,300.0,Gold,False
+1434,Pooja,21.0,Unknown Gender,Bangalore,2020-07-15,300.0,Silver,True
+261,Pooja,21.0,Unknown Gender,Delhi,2022-01-10,300.0,Silver,False
+529,Aman,20.0,F,Pune,2022-01-10,300.0,Silver,False
+1169,Unknown Name,22.0,M,Unknown City,2022-02-10,300.0,Silver,False
+2070,Kunal,21.0,M,Bangalore,,300.0,Gold,True
+1824,Kunal,21.0,F,Mumbai,2019-03-20,300.0,Silver,False
+1373,Pooja,18.0,M,Delhi,2019-03-20,300.0,Bronze,False
+2424,Riya,20.0,M,Pune,2022-01-10,300.0,Silver,True
+1750,Aman,18.0,F,Delhi,2019-03-20,300.0,Bronze,False
+2220,Aman,21.0,M,Bangalore,2019-03-20,300.0,Gold,False
+2166,Arjun,21.0,M,Mumbai,2020-07-15,300.0,Silver,False
+569,Unknown Name,21.0,F,Pune,2019-03-20,300.0,Gold,False
+838,Unknown Name,21.0,F,Bangalore,2019-03-20,300.0,Silver,False
+139,Pooja,23.0,M,Delhi,,300.0,Silver,True
+1127,Sneha,22.0,M,Pune,2020-07-15,300.0,Gold,True
+2417,Sneha,20.0,F,Bangalore,,300.0,Silver,False
+113,Unknown Name,19.0,Unknown Gender,Pune,2020-07-15,300.0,Bronze,False
+532,Kunal,21.0,M,Unknown City,,300.0,Gold,False
+225,Pooja,20.0,F,Bangalore,2019-03-20,300.0,Bronze,False
+1893,Unknown Name,21.0,M,Delhi,,300.0,Gold,False
+83,Unknown Name,21.0,Unknown Gender,Pune,,300.0,Gold,False
+860,Sneha,20.0,M,Unknown City,,300.0,Bronze,True
+1504,Arjun,21.0,Unknown Gender,Pune,2022-01-10,300.0,Gold,False
+2112,Kunal,19.0,Unknown Gender,Pune,2021-12-05,300.0,Silver,False
+1886,Kunal,21.0,M,Pune,2020-07-15,300.0,Unknown,False
+396,Pooja,21.0,M,Pune,,300.0,Gold,True
+1070,Pooja,23.0,Unknown Gender,Bangalore,2019-03-20,300.0,Unknown,False
+1061,Kunal,21.0,Unknown Gender,Bangalore,2022-02-10,300.0,Bronze,False
+302,Unknown Name,19.0,M,Pune,,300.0,Gold,True
+638,Kunal,23.0,M,Bangalore,,300.0,Gold,False
+1754,Sneha,22.0,M,Bangalore,2022-02-10,300.0,Silver,False
+2171,Kunal,21.0,M,Unknown City,2021-12-05,300.0,Unknown,False
+1874,Pooja,19.0,F,Delhi,2020-07-15,300.0,Bronze,False
+1393,Kunal,21.0,M,Delhi,2020-07-15,300.0,Silver,False
+632,Riya,18.0,M,Delhi,2020-07-15,300.0,Gold,True
+906,Unknown Name,21.0,M,Bangalore,2020-07-15,300.0,Gold,True
+1121,Aman,19.0,M,Unknown City,,300.0,Gold,True
+619,Riya,20.0,M,Bangalore,2020-07-15,300.0,Unknown,True
+476,Kunal,23.0,F,Mumbai,2020-07-15,300.0,Bronze,False
+420,Aman,22.0,M,Pune,2021-12-05,300.0,Silver,False
+1842,Kunal,21.0,M,Unknown City,2019-03-20,300.0,Gold,False
+232,Pooja,23.0,F,Bangalore,2019-03-20,300.0,Bronze,False
+1503,Sneha,21.0,F,Delhi,,300.0,Gold,False
+2468,Riya,18.0,M,Mumbai,,300.0,Bronze,True
+2126,Sneha,23.0,F,Mumbai,,300.0,Silver,False
+2020,Sneha,21.0,F,Delhi,2022-01-10,300.0,Silver,False
+1139,Unknown Name,18.0,M,Unknown City,2019-03-20,300.0,Silver,False
+2076,Riya,21.0,Unknown Gender,Bangalore,,300.0,Gold,True
+167,Aman,21.0,M,Unknown City,2020-07-15,300.0,Gold,True
+497,Kunal,21.0,M,Delhi,2021-12-05,300.0,Gold,False
+919,Riya,20.0,M,Mumbai,,300.0,Bronze,False
+1093,Kunal,23.0,F,Mumbai,,300.0,Silver,False
+840,Unknown Name,22.0,M,Unknown City,2020-07-15,300.0,Silver,True
+1905,Riya,18.0,M,Unknown City,2022-02-10,300.0,Bronze,True
+1330,Pooja,21.0,M,Delhi,,300.0,Gold,True
+1743,Kunal,21.0,F,Pune,,300.0,Silver,False
+93,Aman,23.0,Unknown Gender,Pune,,300.0,Gold,False
+639,Unknown Name,22.0,M,Unknown City,,300.0,Gold,False
+2480,Arjun,22.0,Unknown Gender,Unknown City,2020-07-15,300.0,Silver,False
+1227,Unknown Name,22.0,F,Delhi,2022-02-10,300.0,Gold,False
+212,Unknown Name,20.0,Unknown Gender,Delhi,2022-01-10,300.0,Bronze,True
+1622,Kunal,19.0,M,Pune,2019-03-20,300.0,Unknown,False
+1539,Aman,21.0,Unknown Gender,Unknown City,2020-07-15,300.0,Gold,True
+488,Aman,21.0,F,Pune,2022-01-10,300.0,Bronze,False
+1170,Kunal,21.0,M,Unknown City,2019-03-20,300.0,Gold,False
+111,Riya,23.0,F,Pune,,300.0,Gold,False
+560,Sneha,23.0,M,Delhi,,300.0,Gold,True
+1359,Sneha,21.0,F,Delhi,2022-02-10,300.0,Gold,False
+447,Unknown Name,19.0,F,Pune,,300.0,Silver,False
+1396,Sneha,23.0,F,Mumbai,2021-12-05,300.0,Bronze,False
+1756,Unknown Name,20.0,M,Pune,2020-07-15,300.0,Silver,False
+6,Aman,19.0,Unknown Gender,Pune,2019-03-20,300.0,Silver,True
+1462,Kunal,19.0,M,Delhi,,300.0,Gold,False
+982,Riya,19.0,F,Mumbai,2020-07-15,300.0,Bronze,False
+617,Riya,22.0,M,Bangalore,2021-12-05,300.0,Silver,True
+754,Pooja,21.0,M,Delhi,2020-07-15,300.0,Silver,False
+138,Riya,21.0,Unknown Gender,Pune,2022-01-10,300.0,Gold,True
+1908,Pooja,18.0,Unknown Gender,Mumbai,2022-01-10,300.0,Gold,False
+2101,Pooja,22.0,M,Mumbai,2019-03-20,300.0,Silver,True
+2460,Arjun,21.0,F,Unknown City,2022-01-10,300.0,Silver,False
+369,Pooja,20.0,F,Unknown City,2020-07-15,300.0,Silver,False
+681,Riya,22.0,Unknown Gender,Bangalore,2020-07-15,300.0,Bronze,False
+1120,Aman,21.0,F,Mumbai,,300.0,Gold,True
+156,Aman,21.0,Unknown Gender,Unknown City,2022-01-10,300.0,Bronze,False
+1348,Unknown Name,22.0,M,Delhi,2021-12-05,300.0,Bronze,False
+1366,Riya,21.0,F,Mumbai,,300.0,Gold,False
+461,Unknown Name,19.0,F,Bangalore,2022-01-10,300.0,Gold,False
+263,Aman,22.0,F,Mumbai,,300.0,Silver,False
+44,Aman,18.0,Unknown Gender,Bangalore,2019-03-20,300.0,Silver,False
+1068,Kunal,21.0,Unknown Gender,Mumbai,2022-02-10,300.0,Bronze,True
+2060,Arjun,21.0,F,Mumbai,,300.0,Unknown,False
+10,Sneha,22.0,M,Mumbai,2020-07-15,300.0,Silver,True
+898,Sneha,18.0,F,Unknown City,2020-07-15,300.0,Silver,False
+1054,Sneha,21.0,M,Mumbai,2022-01-10,300.0,Gold,False
+165,Unknown Name,20.0,F,Pune,,300.0,Unknown,False
+954,Unknown Name,21.0,F,Bangalore,2019-03-20,300.0,Gold,False
+1024,Aman,22.0,F,Bangalore,2020-07-15,300.0,Gold,False
+53,Aman,21.0,M,Delhi,2021-12-05,300.0,Bronze,False
+2186,Pooja,23.0,F,Mumbai,2021-12-05,300.0,Gold,False
+1795,Kunal,21.0,M,Delhi,2019-03-20,300.0,Unknown,True
+362,Riya,21.0,M,Delhi,2022-02-10,300.0,Gold,True
+102,Aman,21.0,M,Pune,2019-03-20,300.0,Bronze,True
+314,Aman,23.0,F,Delhi,,300.0,Silver,False
+220,Kunal,19.0,F,Pune,2019-03-20,300.0,Silver,True
+1229,Pooja,18.0,F,Pune,2022-01-10,300.0,Gold,False
+216,Unknown Name,18.0,F,Mumbai,2021-12-05,300.0,Silver,False
+1635,Unknown Name,23.0,M,Mumbai,,300.0,Silver,False
+2223,Riya,21.0,M,Pune,2022-01-10,300.0,Gold,False
+1215,Aman,21.0,M,Delhi,2021-12-05,300.0,Silver,False
+522,Arjun,20.0,M,Delhi,2020-07-15,300.0,Gold,False
+2077,Aman,19.0,M,Delhi,2022-01-10,300.0,Bronze,True
+1676,Pooja,22.0,F,Unknown City,2022-02-10,300.0,Unknown,True
+934,Kunal,22.0,Unknown Gender,Unknown City,2020-07-15,300.0,Unknown,False
+2388,Aman,18.0,F,Pune,,300.0,Bronze,False
+588,Unknown Name,21.0,M,Bangalore,2022-02-10,300.0,Silver,True
+1380,Aman,21.0,M,Delhi,2021-12-05,300.0,Bronze,False
+1614,Kunal,21.0,F,Delhi,2020-07-15,300.0,Gold,False
+1553,Unknown Name,21.0,F,Pune,2022-01-10,300.0,Gold,False
+1305,Kunal,18.0,M,Unknown City,2019-03-20,300.0,Silver,False
+1677,Sneha,19.0,F,Mumbai,2019-03-20,300.0,Gold,False
+2410,Aman,21.0,Unknown Gender,Mumbai,2022-02-10,300.0,Gold,False
+593,Arjun,20.0,F,Bangalore,2022-01-10,300.0,Bronze,False
+1846,Pooja,18.0,M,Bangalore,2021-12-05,300.0,Unknown,True
+187,Riya,20.0,Unknown Gender,Mumbai,2020-07-15,300.0,Gold,True
+1133,Aman,20.0,F,Bangalore,2020-07-15,300.0,Silver,False
+1066,Aman,21.0,M,Unknown City,2019-03-20,300.0,Unknown,True
+662,Aman,21.0,M,Mumbai,2022-01-10,300.0,Gold,False
+1117,Pooja,21.0,M,Bangalore,2022-01-10,300.0,Silver,False
+1880,Riya,21.0,F,Delhi,,300.0,Bronze,False
+1206,Kunal,22.0,F,Delhi,2022-02-10,300.0,Gold,False
+2464,Kunal,22.0,F,Pune,2020-07-15,300.0,Gold,False
+1991,Riya,21.0,F,Delhi,,300.0,Unknown,True
+1338,Sneha,21.0,M,Pune,2022-01-10,300.0,Silver,False
+939,Kunal,20.0,M,Delhi,2020-07-15,300.0,Bronze,False
+386,Unknown Name,18.0,Unknown Gender,Delhi,2022-01-10,300.0,Silver,False
+1327,Aman,18.0,M,Delhi,2022-02-10,300.0,Bronze,False
+2361,Riya,21.0,M,Delhi,2022-01-10,300.0,Gold,False
+1583,Arjun,21.0,M,Delhi,2022-01-10,300.0,Bronze,False
+144,Unknown Name,21.0,M,Mumbai,2022-01-10,300.0,Unknown,False
+851,Aman,18.0,M,Mumbai,2021-12-05,300.0,Gold,False
+1648,Kunal,21.0,Unknown Gender,Delhi,2021-12-05,300.0,Gold,False
+955,Kunal,22.0,F,Mumbai,2019-03-20,300.0,Gold,False
+1107,Riya,21.0,M,Pune,2020-07-15,300.0,Unknown,False
+990,Pooja,22.0,M,Delhi,2019-03-20,300.0,Bronze,False
+2162,Aman,21.0,M,Mumbai,2022-02-10,300.0,Gold,False
+99,Riya,21.0,M,Delhi,2020-07-15,300.0,Bronze,False
+339,Unknown Name,21.0,Unknown Gender,Delhi,2022-02-10,300.0,Gold,True
+1007,Kunal,21.0,F,Delhi,2020-07-15,300.0,Gold,False
+1885,Unknown Name,21.0,M,Mumbai,2020-07-15,300.0,Gold,False
+436,Aman,20.0,F,Mumbai,,300.0,Gold,False
+373,Kunal,21.0,Unknown Gender,Bangalore,,300.0,Silver,False
+714,Arjun,20.0,F,Unknown City,2021-12-05,300.0,Unknown,True
+1032,Unknown Name,21.0,M,Delhi,2021-12-05,300.0,Gold,True
+1113,Aman,20.0,M,Bangalore,2020-07-15,300.0,Gold,True
+429,Unknown Name,21.0,M,Unknown City,2019-03-20,300.0,Unknown,False
+2093,Arjun,21.0,F,Unknown City,,300.0,Silver,False
+723,Aman,21.0,F,Bangalore,2022-02-10,300.0,Gold,True
+941,Kunal,21.0,F,Delhi,2020-07-15,300.0,Silver,True
+1059,Unknown Name,20.0,F,Pune,2019-03-20,100.0,Gold,False
+2167,Aman,23.0,Unknown Gender,Unknown City,2020-07-15,100.0,Silver,True
+431,Riya,21.0,Unknown Gender,Pune,,100.0,Gold,False
+1209,Kunal,20.0,M,Pune,2022-01-10,100.0,Silver,False
+195,Riya,22.0,M,Bangalore,2021-12-05,100.0,Silver,True
+1124,Unknown Name,21.0,Unknown Gender,Delhi,2019-03-20,100.0,Bronze,False
+1715,Pooja,20.0,M,Unknown City,,100.0,Silver,False
+1958,Aman,18.0,Unknown Gender,Mumbai,2021-12-05,100.0,Bronze,False
+1591,Kunal,21.0,M,Delhi,2022-02-10,100.0,Bronze,True
+648,Sneha,19.0,M,Unknown City,2021-12-05,100.0,Gold,True
+932,Riya,19.0,F,Delhi,2022-01-10,100.0,Unknown,False
+1199,Kunal,21.0,M,Delhi,2021-12-05,100.0,Bronze,True
+1910,Unknown Name,21.0,M,Delhi,,100.0,Gold,False
+1878,Riya,20.0,Unknown Gender,Pune,2019-03-20,100.0,Gold,True
+1143,Unknown Name,23.0,F,Unknown City,,100.0,Gold,False
+300,Unknown Name,19.0,F,Unknown City,2021-12-05,100.0,Silver,False
+2343,Aman,20.0,Unknown Gender,Mumbai,2021-12-05,100.0,Bronze,False
+1004,Riya,23.0,M,Pune,2019-03-20,100.0,Gold,True
+2079,Sneha,21.0,F,Pune,,100.0,Bronze,False
+555,Aman,23.0,M,Delhi,,100.0,Silver,False
+1318,Aman,21.0,M,Pune,,100.0,Bronze,True
+786,Sneha,18.0,M,Delhi,2022-01-10,100.0,Gold,False
+1988,Aman,22.0,Unknown Gender,Pune,2022-01-10,100.0,Unknown,False
+2452,Unknown Name,21.0,F,Delhi,,100.0,Bronze,False
+210,Pooja,21.0,Unknown Gender,Delhi,2020-07-15,100.0,Bronze,False
+112,Pooja,22.0,M,Unknown City,,100.0,Silver,False
+174,Unknown Name,21.0,M,Mumbai,2021-12-05,100.0,Silver,True
+279,Kunal,22.0,M,Bangalore,2019-03-20,100.0,Gold,True
+1573,Unknown Name,21.0,M,Bangalore,2022-01-10,100.0,Gold,False
+1430,Riya,22.0,F,Pune,2019-03-20,100.0,Bronze,True
+1259,Kunal,18.0,F,Unknown City,,100.0,Gold,False
+1897,Riya,21.0,M,Delhi,2019-03-20,100.0,Bronze,False
+463,Pooja,21.0,F,Pune,2019-03-20,100.0,Gold,False
+1135,Kunal,20.0,M,Bangalore,2022-02-10,100.0,Silver,False
+2233,Kunal,19.0,F,Delhi,2022-02-10,100.0,Gold,True
+2160,Kunal,19.0,Unknown Gender,Pune,2022-02-10,100.0,Silver,True
+1223,Aman,18.0,F,Delhi,2020-07-15,100.0,Unknown,True
+1097,Sneha,21.0,M,Bangalore,,100.0,Unknown,True
+2257,Riya,20.0,F,Bangalore,2021-12-05,100.0,Gold,False
+1796,Aman,18.0,F,Unknown City,2020-07-15,100.0,Gold,True
+1351,Kunal,23.0,M,Delhi,2021-12-05,100.0,Gold,False
+193,Arjun,21.0,F,Delhi,2022-02-10,100.0,Unknown,False
+1457,Pooja,21.0,M,Delhi,,100.0,Silver,True
+1961,Sneha,22.0,Unknown Gender,Pune,2021-12-05,100.0,Silver,False
+238,Sneha,21.0,M,Delhi,2020-07-15,100.0,Gold,True
+602,Arjun,23.0,F,Delhi,2021-12-05,100.0,Gold,True
+1443,Kunal,18.0,Unknown Gender,Delhi,,100.0,Silver,True
+1974,Riya,18.0,F,Delhi,2019-03-20,100.0,Silver,False
+2145,Kunal,20.0,Unknown Gender,Bangalore,2020-07-15,100.0,Silver,False
+135,Riya,21.0,M,Pune,2019-03-20,100.0,Silver,False
+2156,Kunal,22.0,M,Mumbai,2021-12-05,100.0,Gold,True
+1781,Kunal,19.0,Unknown Gender,Pune,,100.0,Silver,False
+1345,Kunal,21.0,Unknown Gender,Unknown City,2020-07-15,100.0,Gold,True
+663,Aman,21.0,M,Delhi,,100.0,Bronze,True
+79,Unknown Name,21.0,M,Delhi,2019-03-20,100.0,Gold,True
+1565,Sneha,21.0,F,Pune,2019-03-20,100.0,Gold,False
+1739,Aman,22.0,Unknown Gender,Delhi,,100.0,Unknown,True
+1746,Unknown Name,23.0,M,Pune,2022-02-10,100.0,Gold,False
+351,Unknown Name,21.0,M,Mumbai,2021-12-05,100.0,Gold,False
+1118,Arjun,21.0,F,Delhi,2021-12-05,100.0,Gold,False
+963,Sneha,21.0,Unknown Gender,Pune,2020-07-15,100.0,Unknown,True
+1941,Arjun,19.0,M,Delhi,2022-01-10,100.0,Silver,False
+652,Aman,21.0,Unknown Gender,Delhi,2021-12-05,100.0,Gold,False
+1883,Unknown Name,19.0,M,Unknown City,2022-02-10,100.0,Gold,True
+2399,Unknown Name,21.0,M,Delhi,,100.0,Unknown,False
+1053,Unknown Name,21.0,M,Delhi,,100.0,Gold,False
+2113,Riya,23.0,M,Pune,2022-01-10,100.0,Gold,False
+901,Aman,21.0,F,Mumbai,2022-01-10,100.0,Gold,True
+783,Aman,19.0,F,Bangalore,2022-01-10,100.0,Silver,False
+926,Aman,19.0,M,Mumbai,2022-01-10,100.0,Unknown,False
+686,Arjun,21.0,M,Pune,2022-02-10,100.0,Unknown,False
+481,Aman,23.0,M,Delhi,,100.0,Bronze,False
+1272,Aman,19.0,M,Mumbai,2019-03-20,100.0,Bronze,True
+1136,Kunal,19.0,F,Bangalore,,100.0,Gold,True
+1657,Unknown Name,21.0,Unknown Gender,Delhi,2022-02-10,100.0,Gold,False
+1799,Arjun,21.0,M,Mumbai,,100.0,Silver,False
+1476,Unknown Name,20.0,F,Bangalore,,100.0,Gold,False
+1294,Kunal,18.0,Unknown Gender,Unknown City,2020-07-15,100.0,Gold,True
+986,Aman,21.0,F,Pune,2020-07-15,100.0,Gold,True
+1672,Aman,21.0,F,Delhi,,100.0,Gold,False
+1180,Riya,19.0,Unknown Gender,Delhi,2020-07-15,100.0,Unknown,True
+655,Aman,21.0,M,Mumbai,2022-02-10,100.0,Silver,True
+556,Aman,21.0,M,Mumbai,2021-12-05,100.0,Gold,False
+2403,Sneha,21.0,M,Delhi,2022-01-10,100.0,Gold,True
+1938,Kunal,19.0,F,Mumbai,,100.0,Gold,False
+1826,Riya,21.0,M,Mumbai,,100.0,Bronze,True
+141,Sneha,21.0,M,Delhi,2019-03-20,100.0,Bronze,False
+1378,Unknown Name,21.0,F,Pune,2022-02-10,100.0,Gold,True
+1178,Kunal,21.0,F,Mumbai,2019-03-20,100.0,Gold,True
+103,Riya,23.0,F,Unknown City,2021-12-05,100.0,Unknown,True
+2270,Sneha,22.0,M,Bangalore,2021-12-05,100.0,Gold,True
+206,Arjun,21.0,M,Mumbai,2019-03-20,100.0,Gold,False
+1400,Sneha,21.0,M,Bangalore,2022-01-10,100.0,Bronze,False
+595,Aman,21.0,M,Unknown City,,100.0,Bronze,True
+633,Aman,21.0,M,Mumbai,2019-03-20,100.0,Gold,True
+888,Sneha,21.0,M,Delhi,2020-07-15,100.0,Gold,True
+2155,Arjun,21.0,F,Pune,2020-07-15,100.0,Bronze,False
+966,Unknown Name,19.0,M,Pune,2019-03-20,100.0,Silver,False
+842,Aman,21.0,Unknown Gender,Pune,2020-07-15,100.0,Gold,False
+284,Unknown Name,20.0,F,Unknown City,,100.0,Silver,True
+100,Riya,18.0,M,Bangalore,2022-01-10,100.0,Unknown,False
+2291,Kunal,21.0,M,Mumbai,2022-01-10,100.0,Silver,True
+669,Kunal,20.0,M,Delhi,2022-02-10,100.0,Gold,False
+1815,Riya,19.0,M,Delhi,2019-03-20,100.0,Gold,False
+1963,Arjun,21.0,F,Unknown City,,100.0,Unknown,False
+1962,Unknown Name,21.0,M,Delhi,2022-01-10,100.0,Gold,False
+1968,Aman,22.0,F,Bangalore,2020-07-15,100.0,Gold,False
+631,Aman,18.0,M,Bangalore,2022-02-10,100.0,Silver,False
+1250,Kunal,19.0,F,Mumbai,,100.0,Unknown,True
+1916,Unknown Name,21.0,Unknown Gender,Mumbai,2020-07-15,100.0,Silver,True
+215,Kunal,18.0,M,Delhi,2020-07-15,100.0,Gold,False
+2414,Riya,19.0,F,Mumbai,2022-02-10,100.0,Gold,False
+1661,Unknown Name,21.0,M,Delhi,,100.0,Unknown,False
+2180,Aman,21.0,Unknown Gender,Unknown City,2022-02-10,100.0,Silver,False
+2085,Arjun,21.0,F,Mumbai,2019-03-20,100.0,Gold,False
+659,Aman,21.0,Unknown Gender,Unknown City,,100.0,Unknown,False
+2135,Aman,22.0,M,Delhi,2019-03-20,100.0,Unknown,True
+1446,Sneha,20.0,F,Bangalore,2021-12-05,100.0,Gold,False
+104,Unknown Name,22.0,Unknown Gender,Unknown City,2021-12-05,100.0,Gold,False
+957,Aman,19.0,M,Delhi,,100.0,Gold,True
+1301,Sneha,19.0,M,Mumbai,2022-01-10,100.0,Unknown,False
+237,Unknown Name,21.0,F,Pune,2021-12-05,100.0,Bronze,True
+905,Kunal,21.0,Unknown Gender,Pune,2022-02-10,100.0,Gold,False
+547,Unknown Name,19.0,F,Delhi,2020-07-15,100.0,Bronze,False
+823,Kunal,19.0,Unknown Gender,Delhi,,100.0,Gold,False
+17,Kunal,21.0,F,Mumbai,2021-12-05,100.0,Gold,False
+607,Aman,19.0,M,Pune,2022-02-10,100.0,Unknown,True
+1112,Sneha,22.0,M,Unknown City,,100.0,Silver,True
+1759,Unknown Name,23.0,F,Bangalore,2022-02-10,100.0,Silver,False
+1410,Aman,20.0,F,Unknown City,2020-07-15,100.0,Gold,False
+1864,Pooja,18.0,M,Delhi,,100.0,Bronze,True
+1395,Kunal,23.0,Unknown Gender,Delhi,2022-02-10,100.0,Unknown,False
+952,Kunal,21.0,M,Pune,,100.0,Gold,False
+1384,Pooja,19.0,M,Unknown City,2021-12-05,100.0,Silver,False
+148,Unknown Name,21.0,F,Delhi,,100.0,Gold,False
+25,Aman,19.0,F,Delhi,2022-02-10,100.0,Gold,False
+1983,Unknown Name,20.0,Unknown Gender,Delhi,2021-12-05,100.0,Gold,False
+51,Unknown Name,21.0,F,Delhi,2022-01-10,100.0,Bronze,False
+575,Sneha,21.0,Unknown Gender,Delhi,2020-07-15,100.0,Silver,False
+1935,Aman,21.0,M,Bangalore,2022-01-10,100.0,Gold,False
+2362,Kunal,20.0,Unknown Gender,Delhi,,100.0,Gold,False
+47,Aman,20.0,Unknown Gender,Delhi,2019-03-20,100.0,Bronze,False
+478,Sneha,19.0,F,Bangalore,,100.0,Silver,False
+1444,Riya,22.0,F,Delhi,2019-03-20,100.0,Silver,True
+482,Unknown Name,21.0,F,Bangalore,2021-12-05,100.0,Gold,False
+1649,Arjun,22.0,F,Delhi,2022-02-10,100.0,Gold,False
+2121,Aman,21.0,M,Mumbai,2022-02-10,100.0,Silver,True
+2455,Aman,19.0,F,Unknown City,2022-02-10,100.0,Silver,False
+557,Aman,21.0,F,Mumbai,,100.0,Gold,False
+207,Aman,22.0,F,Mumbai,2022-01-10,100.0,Gold,True
+1039,Pooja,18.0,Unknown Gender,Delhi,,100.0,Silver,False
+796,Pooja,18.0,F,Unknown City,2020-07-15,100.0,Gold,True
+170,Kunal,18.0,Unknown Gender,Pune,2020-07-15,100.0,Silver,True
+580,Unknown Name,19.0,F,Pune,2022-02-10,100.0,Silver,True
+781,Kunal,19.0,F,Delhi,2022-01-10,100.0,Gold,True
+318,Arjun,19.0,M,Delhi,2020-07-15,100.0,Unknown,False
+684,Sneha,22.0,F,Unknown City,,100.0,Unknown,False
+1292,Aman,21.0,Unknown Gender,Delhi,2022-01-10,100.0,Unknown,False
+1637,Kunal,21.0,M,Bangalore,2022-01-10,100.0,Bronze,True
+855,Sneha,21.0,M,Delhi,,100.0,Gold,False
+1760,Aman,22.0,F,Mumbai,,100.0,Silver,True
+825,Unknown Name,22.0,M,Mumbai,2019-03-20,100.0,Bronze,True
+2274,Kunal,22.0,F,Mumbai,2019-03-20,100.0,Unknown,False
+767,Kunal,21.0,F,Bangalore,,100.0,Gold,True
+2425,Kunal,22.0,M,Unknown City,,100.0,Gold,False
+660,Sneha,23.0,Unknown Gender,Delhi,,100.0,Silver,True
+2451,Aman,20.0,Unknown Gender,Delhi,2022-01-10,100.0,Gold,True
+251,Kunal,22.0,M,Unknown City,2022-01-10,100.0,Unknown,False
+1735,Sneha,21.0,M,Unknown City,2019-03-20,100.0,Gold,False
+1450,Sneha,23.0,M,Delhi,2019-03-20,100.0,Silver,False
+1844,Pooja,22.0,F,Pune,,100.0,Gold,True
+1788,Pooja,18.0,M,Mumbai,2020-07-15,100.0,Bronze,False
+269,Unknown Name,21.0,F,Unknown City,2022-01-10,100.0,Gold,False
+636,Riya,22.0,Unknown Gender,Delhi,2021-12-05,100.0,Gold,True
+1082,Pooja,21.0,M,Delhi,2022-02-10,100.0,Gold,False
+2387,Kunal,21.0,F,Mumbai,2022-02-10,100.0,Bronze,False
+1857,Unknown Name,20.0,Unknown Gender,Delhi,2019-03-20,100.0,Silver,False
+48,Kunal,22.0,M,Delhi,2021-12-05,100.0,Gold,False
+1080,Aman,23.0,M,Unknown City,,100.0,Gold,False
+91,Kunal,20.0,Unknown Gender,Delhi,2022-02-10,100.0,Gold,False
+173,Unknown Name,21.0,F,Mumbai,,100.0,Gold,False
+1959,Unknown Name,21.0,F,Mumbai,2021-12-05,100.0,Silver,False
+1720,Arjun,19.0,M,Unknown City,2020-07-15,100.0,Gold,True
+505,Unknown Name,21.0,M,Unknown City,2022-02-10,100.0,Gold,True
+761,Unknown Name,21.0,F,Delhi,,100.0,Unknown,True
+2159,Kunal,21.0,Unknown Gender,Delhi,2021-12-05,100.0,Gold,True
+1474,Unknown Name,20.0,F,Delhi,2020-07-15,100.0,Bronze,False
+2181,Kunal,21.0,F,Delhi,,100.0,Gold,False
+2129,Riya,21.0,M,Mumbai,2019-03-20,100.0,Bronze,False
+1700,Kunal,21.0,Unknown Gender,Delhi,,100.0,Unknown,False
+1848,Aman,19.0,M,Delhi,2021-12-05,100.0,Unknown,False
+2018,Kunal,18.0,M,Delhi,2019-03-20,100.0,Silver,False
+1372,Kunal,18.0,F,Unknown City,2020-07-15,100.0,Gold,True
+869,Unknown Name,22.0,M,Pune,2020-07-15,100.0,Unknown,False
+1849,Sneha,19.0,M,Pune,2021-12-05,100.0,Gold,False
+1947,Kunal,22.0,M,Delhi,2021-12-05,100.0,Gold,False
+268,Aman,23.0,M,Mumbai,2021-12-05,100.0,Gold,True
+1839,Unknown Name,20.0,F,Delhi,2022-01-10,100.0,Silver,False
+2498,Riya,20.0,F,Unknown City,2021-12-05,100.0,Silver,True
+1263,Aman,20.0,M,Bangalore,2019-03-20,100.0,Silver,False
+2001,Sneha,19.0,M,Bangalore,,100.0,Gold,False
+1520,Sneha,21.0,F,Delhi,,100.0,Bronze,True
+1218,Aman,23.0,M,Unknown City,,100.0,Silver,True
+117,Kunal,21.0,M,Bangalore,2022-01-10,100.0,Gold,False
+235,Sneha,22.0,M,Pune,2019-03-20,100.0,Gold,False
+1249,Kunal,19.0,Unknown Gender,Mumbai,,100.0,Unknown,False
+1889,Aman,21.0,F,Pune,2022-01-10,100.0,Gold,True
+78,Unknown Name,23.0,M,Delhi,2022-01-10,100.0,Bronze,False
+1680,Unknown Name,19.0,F,Delhi,2021-12-05,100.0,Bronze,True
+997,Pooja,21.0,M,Bangalore,2021-12-05,100.0,Gold,True
+1605,Kunal,20.0,Unknown Gender,Mumbai,,100.0,Gold,False
+1944,Riya,21.0,F,Unknown City,2020-07-15,100.0,Bronze,False
+2389,Kunal,21.0,M,Bangalore,2022-02-10,100.0,Bronze,False
+321,Kunal,21.0,M,Pune,2022-01-10,100.0,Silver,False
+1674,Aman,21.0,F,Bangalore,,100.0,Unknown,True
+896,Unknown Name,18.0,F,Pune,,100.0,Unknown,True
+1688,Unknown Name,20.0,F,Delhi,2022-02-10,100.0,Gold,False
+1569,Pooja,23.0,M,Unknown City,2022-01-10,100.0,Gold,True
+1067,Unknown Name,22.0,M,Unknown City,2022-02-10,100.0,Gold,False
+559,Kunal,19.0,M,Pune,,100.0,Unknown,True
+847,Riya,21.0,M,Delhi,2019-03-20,100.0,Silver,False
+1871,Kunal,22.0,M,Bangalore,2022-01-10,100.0,Gold,True
+243,Pooja,19.0,M,Delhi,,100.0,Gold,False
+413,Pooja,22.0,Unknown Gender,Pune,2021-12-05,100.0,Silver,False
+1123,Unknown Name,21.0,M,Unknown City,2021-12-05,100.0,Silver,False
+2110,Kunal,22.0,F,Pune,2022-01-10,100.0,Silver,False
+2276,Unknown Name,23.0,M,Delhi,2022-02-10,100.0,Gold,False
+397,Kunal,21.0,F,Delhi,,100.0,Gold,False
+1255,Aman,19.0,F,Delhi,,100.0,Unknown,True
+2411,Unknown Name,21.0,M,Bangalore,2020-07-15,100.0,Unknown,False
+1055,Unknown Name,18.0,M,Pune,2020-07-15,100.0,Gold,False
+1461,Kunal,23.0,Unknown Gender,Delhi,2020-07-15,100.0,Unknown,False
+2130,Kunal,21.0,Unknown Gender,Bangalore,2022-01-10,100.0,Silver,True
+591,Unknown Name,23.0,M,Mumbai,2019-03-20,100.0,Unknown,False
+2164,Arjun,22.0,F,Delhi,,100.0,Bronze,False
+703,Unknown Name,21.0,F,Mumbai,2020-07-15,100.0,Bronze,False
+317,Kunal,20.0,M,Pune,,100.0,Gold,True
+2325,Arjun,23.0,Unknown Gender,Delhi,2020-07-15,100.0,Bronze,False
+84,Aman,23.0,F,Pune,2020-07-15,100.0,Gold,False
+162,Kunal,21.0,F,Pune,2022-01-10,100.0,Bronze,False
+2351,Aman,21.0,M,Mumbai,,100.0,Bronze,False
+2140,Kunal,18.0,M,Delhi,,100.0,Unknown,False
+1436,Riya,18.0,M,Delhi,,100.0,Gold,False
+186,Kunal,21.0,M,Delhi,2022-02-10,100.0,Gold,False
+792,Pooja,20.0,F,Pune,,100.0,Unknown,False
+1295,Sneha,21.0,Unknown Gender,Delhi,,100.0,Unknown,False
+475,Unknown Name,21.0,M,Pune,,100.0,Gold,False
+1563,Unknown Name,21.0,M,Pune,2022-02-10,100.0,Gold,False
+974,Aman,22.0,M,Unknown City,2020-07-15,100.0,Silver,True
+1749,Unknown Name,18.0,M,Mumbai,2022-02-10,100.0,Bronze,False
+2364,Unknown Name,21.0,F,Delhi,2022-01-10,100.0,Gold,False
+1711,Aman,19.0,F,Bangalore,2020-07-15,100.0,Gold,False
+1099,Arjun,21.0,M,Bangalore,,100.0,Silver,False
+2141,Kunal,21.0,F,Pune,2020-07-15,100.0,Silver,True
+755,Sneha,23.0,M,Unknown City,,100.0,Unknown,False
+1810,Unknown Name,21.0,M,Delhi,,100.0,Silver,False
+553,Kunal,21.0,Unknown Gender,Pune,2020-07-15,100.0,Gold,True
+887,Pooja,19.0,F,Pune,2021-12-05,100.0,Unknown,False
+1022,Riya,21.0,M,Delhi,2021-12-05,100.0,Bronze,True
+1479,Kunal,23.0,M,Unknown City,2019-03-20,100.0,Gold,False
+1344,Sneha,21.0,F,Bangalore,2022-01-10,100.0,Silver,False
+2247,Unknown Name,21.0,F,Delhi,,100.0,Gold,False
+1586,Aman,21.0,F,Pune,2019-03-20,100.0,Bronze,True
+2404,Sneha,21.0,F,Delhi,2021-12-05,100.0,Gold,True
+647,Kunal,23.0,M,Mumbai,2020-07-15,0.0,Bronze,False
+970,Unknown Name,19.0,M,Delhi,2020-07-15,0.0,Bronze,True
+1428,Aman,23.0,F,Mumbai,2021-12-05,0.0,Bronze,True
+1000,Kunal,20.0,M,Pune,2021-12-05,0.0,Bronze,True
+2331,Arjun,20.0,M,Pune,,0.0,Bronze,False
+315,Kunal,22.0,M,Delhi,,0.0,Gold,False
+1650,Pooja,21.0,F,Mumbai,2019-03-20,0.0,Unknown,False
+826,Kunal,20.0,F,Pune,2022-01-10,0.0,Unknown,True
+35,Aman,21.0,F,Unknown City,2019-03-20,0.0,Gold,True
+2436,Sneha,23.0,M,Delhi,2022-02-10,0.0,Silver,True
+1425,Aman,21.0,M,Pune,2022-01-10,0.0,Bronze,False
+2241,Kunal,23.0,M,Pune,2019-03-20,0.0,Gold,False
+2096,Aman,21.0,Unknown Gender,Unknown City,2019-03-20,0.0,Silver,False
+418,Kunal,20.0,M,Delhi,2021-12-05,0.0,Gold,False
+1268,Riya,21.0,F,Unknown City,,0.0,Bronze,True
+2330,Aman,21.0,M,Unknown City,2022-02-10,0.0,Unknown,False
+1517,Kunal,22.0,M,Pune,2020-07-15,0.0,Bronze,False
+45,Aman,21.0,M,Bangalore,2019-03-20,0.0,Gold,False
+2225,Kunal,23.0,F,Delhi,2022-01-10,0.0,Silver,False
+2069,Unknown Name,22.0,F,Delhi,,0.0,Bronze,False
+870,Unknown Name,19.0,Unknown Gender,Delhi,2021-12-05,0.0,Gold,False
+692,Riya,21.0,M,Pune,,0.0,Gold,True
+2493,Kunal,21.0,Unknown Gender,Delhi,,0.0,Silver,False
+596,Aman,21.0,M,Bangalore,2021-12-05,0.0,Unknown,False
+1892,Riya,21.0,F,Delhi,2022-01-10,0.0,Silver,False
+885,Unknown Name,21.0,M,Pune,,0.0,Silver,True
+1822,Aman,21.0,F,Bangalore,,0.0,Silver,False
+2219,Kunal,18.0,M,Bangalore,2020-07-15,0.0,Unknown,False
+1549,Aman,20.0,M,Delhi,2022-02-10,0.0,Gold,False
+1168,Kunal,21.0,M,Mumbai,2022-02-10,0.0,Gold,True
+120,Unknown Name,18.0,F,Mumbai,,0.0,Bronze,False
+1811,Aman,21.0,Unknown Gender,Bangalore,2022-02-10,0.0,Bronze,False
+462,Kunal,23.0,F,Delhi,2022-02-10,0.0,Silver,False
+978,Kunal,22.0,Unknown Gender,Delhi,,0.0,Unknown,False
+552,Sneha,21.0,M,Unknown City,2021-12-05,0.0,Silver,False
+784,Aman,21.0,F,Unknown City,,0.0,Bronze,True
+1151,Pooja,21.0,F,Mumbai,,0.0,Bronze,False
+810,Kunal,21.0,F,Delhi,2020-07-15,0.0,Bronze,False
+336,Unknown Name,21.0,Unknown Gender,Bangalore,2020-07-15,0.0,Silver,False
+844,Unknown Name,21.0,F,Mumbai,2020-07-15,0.0,Gold,True
+1349,Kunal,19.0,F,Pune,,0.0,Gold,True
+1850,Sneha,20.0,F,Unknown City,2022-02-10,0.0,Silver,True
+1782,Riya,21.0,M,Delhi,,0.0,Gold,False
+2071,Unknown Name,21.0,M,Unknown City,2022-01-10,0.0,Silver,False
+1313,Pooja,21.0,M,Delhi,2022-01-10,0.0,Gold,False
+1636,Aman,22.0,Unknown Gender,Mumbai,2020-07-15,0.0,Bronze,False
+2120,Aman,23.0,M,Delhi,2022-01-10,0.0,Unknown,True
+2352,Pooja,21.0,M,Pune,2022-02-10,0.0,Silver,False
+1391,Sneha,22.0,Unknown Gender,Unknown City,,0.0,Silver,True
+2266,Unknown Name,21.0,M,Unknown City,2020-07-15,0.0,Silver,False
+1584,Aman,19.0,F,Bangalore,2019-03-20,0.0,Silver,False
+1228,Aman,21.0,M,Pune,2022-01-10,0.0,Silver,False
+509,Sneha,21.0,M,Bangalore,2022-02-10,0.0,Silver,True
+1783,Riya,22.0,M,Delhi,2020-07-15,0.0,Silver,False
+1903,Unknown Name,19.0,M,Pune,2022-02-10,0.0,Gold,False
+1009,Unknown Name,18.0,F,Pune,,0.0,Gold,False
+2208,Kunal,21.0,M,Bangalore,2022-01-10,0.0,Gold,False
+2448,Sneha,21.0,F,Mumbai,2020-07-15,0.0,Gold,True
+12,Sneha,21.0,Unknown Gender,Bangalore,2019-03-20,0.0,Unknown,False
+1392,Arjun,20.0,F,Bangalore,2020-07-15,0.0,Gold,False
+1932,Unknown Name,21.0,M,Mumbai,2021-12-05,0.0,Silver,True
+2042,Pooja,20.0,M,Pune,2022-01-10,0.0,Bronze,False
+634,Riya,21.0,Unknown Gender,Delhi,2021-12-05,0.0,Bronze,True
+285,Aman,20.0,F,Mumbai,2021-12-05,0.0,Silver,False
+1152,Unknown Name,19.0,M,Delhi,2022-02-10,0.0,Gold,False
+2237,Aman,22.0,F,Delhi,,0.0,Gold,True
+1790,Kunal,21.0,M,Bangalore,2019-03-20,0.0,Silver,False
+1213,Aman,22.0,M,Pune,2020-07-15,0.0,Gold,False
+1471,Riya,20.0,M,Mumbai,2019-03-20,0.0,Gold,False
+2157,Arjun,22.0,M,Delhi,2020-07-15,0.0,Gold,True
+154,Pooja,18.0,F,Pune,2021-12-05,0.0,Unknown,True
+852,Aman,20.0,Unknown Gender,Delhi,2021-12-05,0.0,Gold,False
+2169,Unknown Name,21.0,M,Bangalore,2021-12-05,0.0,Silver,False
+2315,Kunal,20.0,F,Delhi,2022-01-10,0.0,Silver,False
+1593,Unknown Name,20.0,M,Mumbai,2022-02-10,0.0,Gold,False
+471,Kunal,23.0,F,Mumbai,2022-02-10,0.0,Gold,False
+2016,Sneha,21.0,M,Mumbai,,0.0,Silver,True
+554,Sneha,21.0,Unknown Gender,Pune,2022-02-10,0.0,Silver,True
+2392,Arjun,20.0,F,Pune,2019-03-20,0.0,Gold,False
+1146,Aman,21.0,F,Mumbai,,0.0,Silver,False
+668,Unknown Name,22.0,F,Mumbai,2022-02-10,0.0,Gold,True
+358,Kunal,21.0,M,Delhi,2021-12-05,0.0,Gold,False
+1036,Unknown Name,20.0,M,Delhi,2021-12-05,0.0,Gold,True
+1516,Sneha,19.0,M,Mumbai,2019-03-20,0.0,Unknown,True
+450,Pooja,20.0,Unknown Gender,Delhi,2020-07-15,0.0,Unknown,True
+298,Kunal,23.0,M,Unknown City,2022-01-10,0.0,Silver,True
+942,Kunal,20.0,M,Bangalore,2022-02-10,0.0,Silver,True
+1550,Arjun,23.0,M,Unknown City,2021-12-05,0.0,Unknown,False
+1257,Sneha,20.0,M,Pune,,0.0,Silver,False
+1589,Kunal,21.0,M,Unknown City,2022-01-10,0.0,Bronze,False
+1556,Riya,21.0,M,Unknown City,2022-01-10,0.0,Unknown,True
+1216,Unknown Name,21.0,M,Bangalore,2019-03-20,0.0,Silver,True
+80,Aman,20.0,Unknown Gender,Pune,2022-02-10,0.0,Gold,False
+956,Aman,20.0,M,Delhi,2020-07-15,0.0,Silver,False
+815,Aman,18.0,F,Mumbai,,0.0,Unknown,False
+2221,Riya,23.0,F,Delhi,2019-03-20,0.0,Silver,True
+414,Aman,20.0,F,Unknown City,2022-01-10,0.0,Gold,False
+802,Unknown Name,20.0,Unknown Gender,Delhi,,0.0,Silver,True
+1724,Unknown Name,20.0,M,Bangalore,2022-01-10,0.0,Gold,False
+374,Pooja,21.0,M,Pune,,0.0,Silver,False
+1669,Pooja,20.0,M,Delhi,2022-01-10,0.0,Gold,False
+1478,Aman,23.0,M,Mumbai,2022-01-10,0.0,Gold,False
+689,Pooja,21.0,F,Delhi,2019-03-20,0.0,Bronze,False
+2195,Sneha,19.0,M,Unknown City,,0.0,Gold,True
+666,Riya,21.0,Unknown Gender,Mumbai,2019-03-20,0.0,Unknown,False
+1611,Unknown Name,23.0,M,Bangalore,2020-07-15,0.0,Gold,False
+1131,Arjun,21.0,F,Unknown City,2022-02-10,0.0,Gold,False
+224,Unknown Name,19.0,F,Delhi,,0.0,Gold,False
+2385,Pooja,19.0,M,Delhi,2021-12-05,0.0,Silver,False
+2136,Aman,23.0,M,Bangalore,,0.0,Silver,True
+41,Kunal,21.0,M,Unknown City,2019-03-20,0.0,Silver,False
+1695,Riya,22.0,M,Bangalore,,0.0,Bronze,True
+1618,Kunal,21.0,F,Bangalore,2021-12-05,0.0,Gold,False
+925,Unknown Name,21.0,M,Delhi,2019-03-20,0.0,Gold,False
+2037,Kunal,19.0,M,Unknown City,2019-03-20,0.0,Silver,False
+1686,Pooja,23.0,Unknown Gender,Bangalore,,0.0,Gold,True
+1225,Pooja,20.0,Unknown Gender,Mumbai,2019-03-20,0.0,Silver,True
+185,Unknown Name,23.0,M,Delhi,2019-03-20,0.0,Silver,True
+740,Aman,18.0,M,Bangalore,2022-01-10,0.0,Gold,True
+421,Kunal,21.0,F,Pune,,0.0,Bronze,False
+1740,Kunal,21.0,M,Bangalore,,0.0,Unknown,False
+134,Sneha,19.0,F,Mumbai,2020-07-15,0.0,Gold,False
+2230,Kunal,21.0,F,Delhi,2019-03-20,0.0,Gold,False
+1171,Riya,19.0,M,Mumbai,2021-12-05,0.0,Unknown,False
+2322,Arjun,21.0,F,Pune,2019-03-20,0.0,Silver,True
+217,Sneha,18.0,F,Bangalore,2022-02-10,0.0,Silver,False
+511,Riya,18.0,M,Delhi,,0.0,Gold,False
+2457,Kunal,21.0,Unknown Gender,Delhi,,0.0,Silver,False
+1877,Pooja,21.0,F,Delhi,2022-01-10,0.0,Unknown,False
+1681,Riya,21.0,F,Bangalore,2020-07-15,0.0,Silver,False
+33,Kunal,21.0,Unknown Gender,Pune,2019-03-20,0.0,Silver,False
+500,Sneha,21.0,M,Unknown City,2021-12-05,0.0,Silver,True
+644,Riya,21.0,F,Mumbai,,0.0,Gold,True
+1860,Kunal,21.0,M,Bangalore,,0.0,Gold,True
+1265,Pooja,20.0,M,Bangalore,2020-07-15,0.0,Silver,False
+434,Kunal,21.0,M,Delhi,,0.0,Silver,True
+1900,Pooja,19.0,M,Unknown City,,0.0,Gold,True
+1417,Kunal,22.0,Unknown Gender,Delhi,2020-07-15,0.0,Silver,True
+1198,Kunal,21.0,F,Unknown City,2020-07-15,0.0,Gold,False
+26,Arjun,22.0,M,Delhi,2022-02-10,0.0,Gold,False
+1033,Riya,21.0,M,Unknown City,,0.0,Gold,True
+370,Riya,21.0,M,Mumbai,,0.0,Silver,True
+1157,Aman,22.0,F,Delhi,2022-01-10,0.0,Bronze,True
+491,Pooja,18.0,F,Pune,2019-03-20,0.0,Gold,True
+1197,Riya,19.0,Unknown Gender,Pune,,0.0,Gold,True
+1879,Aman,20.0,M,Pune,2020-07-15,0.0,Gold,False
+1807,Kunal,21.0,M,Bangalore,2020-07-15,0.0,Gold,True
+2006,Unknown Name,21.0,M,Unknown City,2021-12-05,0.0,Gold,False
+2342,Aman,21.0,Unknown Gender,Bangalore,2022-02-10,0.0,Bronze,False
+1185,Kunal,21.0,M,Unknown City,2020-07-15,0.0,Silver,True
+818,Aman,23.0,Unknown Gender,Unknown City,2022-02-10,0.0,Gold,False
+2438,Riya,21.0,M,Pune,2022-01-10,0.0,Gold,False
+1141,Riya,18.0,Unknown Gender,Delhi,2019-03-20,0.0,Unknown,False
+1532,Kunal,21.0,M,Pune,2022-02-10,0.0,Silver,False
+2301,Pooja,22.0,Unknown Gender,Delhi,2022-01-10,0.0,Gold,False
+819,Kunal,22.0,Unknown Gender,Delhi,2022-02-10,0.0,Silver,True
+1996,Pooja,20.0,M,Delhi,2020-07-15,0.0,Bronze,True
+2396,Unknown Name,21.0,Unknown Gender,Bangalore,,0.0,Unknown,False
+1809,Unknown Name,21.0,Unknown Gender,Delhi,2020-07-15,0.0,Unknown,True
+2435,Unknown Name,21.0,F,Unknown City,2021-12-05,0.0,Silver,True
+748,Unknown Name,22.0,F,Unknown City,,0.0,Gold,False
+1737,Riya,21.0,F,Pune,2022-01-10,0.0,Bronze,True
+1385,Unknown Name,21.0,M,Mumbai,,0.0,Gold,True
+829,Riya,20.0,M,Delhi,2021-12-05,0.0,Silver,False
+1684,Sneha,23.0,Unknown Gender,Bangalore,2021-12-05,0.0,Unknown,True
+653,Arjun,22.0,M,Mumbai,2022-02-10,0.0,Gold,True
+329,Unknown Name,21.0,F,Pune,2019-03-20,0.0,Unknown,False
+2254,Arjun,20.0,Unknown Gender,Bangalore,2022-01-10,0.0,Gold,True
+5,Kunal,23.0,Unknown Gender,Pune,,0.0,Silver,False
+1956,Aman,19.0,M,Delhi,,0.0,Gold,False
+204,Sneha,18.0,M,Bangalore,2021-12-05,0.0,Bronze,True
+2463,Kunal,21.0,F,Pune,2019-03-20,0.0,Unknown,False
+1987,Aman,21.0,M,Delhi,,0.0,Gold,True
+230,Kunal,19.0,M,Delhi,2019-03-20,0.0,Gold,False
+1148,Kunal,21.0,M,Delhi,2022-02-10,0.0,Gold,False
+590,Unknown Name,18.0,F,Delhi,,0.0,Bronze,False
+1931,Sneha,19.0,F,Pune,2021-12-05,0.0,Gold,True
+198,Kunal,18.0,M,Bangalore,2022-02-10,0.0,Unknown,False
+2255,Sneha,18.0,F,Delhi,2022-02-10,0.0,Gold,False
+123,Riya,21.0,F,Unknown City,,0.0,Gold,True
+2295,Sneha,23.0,M,Unknown City,2020-07-15,0.0,Gold,False
+1440,Aman,21.0,M,Delhi,2022-02-10,0.0,Silver,False
+1685,Arjun,21.0,Unknown Gender,Delhi,2022-01-10,0.0,Silver,False
+678,Kunal,20.0,M,Pune,2020-07-15,0.0,Gold,False
+1734,Pooja,21.0,F,Bangalore,,0.0,Silver,False
+288,Kunal,21.0,Unknown Gender,Unknown City,2021-12-05,0.0,Silver,True
+1612,Riya,21.0,F,Mumbai,,0.0,Silver,True
+1696,Sneha,21.0,Unknown Gender,Mumbai,,0.0,Silver,True
+1708,Aman,22.0,M,Pune,2022-01-10,0.0,Silver,False
+2265,Sneha,18.0,M,Unknown City,2019-03-20,0.0,Gold,True
+1535,Unknown Name,19.0,M,Bangalore,2022-01-10,0.0,Silver,True
+1269,Sneha,21.0,M,Pune,2020-07-15,0.0,Gold,False
+1984,Aman,21.0,M,Delhi,2022-02-10,0.0,Gold,True
+1412,Arjun,21.0,M,Pune,2019-03-20,0.0,Unknown,True
+2371,Aman,22.0,F,Bangalore,2021-12-05,0.0,Silver,True
+1875,Kunal,22.0,F,Pune,2021-12-05,0.0,Unknown,False
+1683,Aman,20.0,M,Bangalore,2020-07-15,0.0,Unknown,True
+453,Kunal,19.0,F,Delhi,2019-03-20,0.0,Bronze,True
+1506,Sneha,21.0,M,Delhi,2022-01-10,0.0,Gold,False
+2365,Aman,19.0,M,Pune,2021-12-05,0.0,Gold,False
+719,Riya,21.0,F,Unknown City,2020-07-15,0.0,Silver,True
+1072,Arjun,21.0,F,Delhi,,0.0,Gold,True
+2302,Arjun,19.0,Unknown Gender,Pune,2022-01-10,0.0,Gold,False
+583,Unknown Name,21.0,M,Mumbai,2022-01-10,0.0,Gold,False
+1328,Riya,21.0,F,Delhi,2022-01-10,0.0,Gold,False
+881,Kunal,20.0,F,Bangalore,2019-03-20,0.0,Gold,True
+858,Pooja,20.0,Unknown Gender,Mumbai,2021-12-05,0.0,Gold,False
+1077,Kunal,20.0,M,Unknown City,2021-12-05,0.0,Bronze,False
+1439,Aman,21.0,F,Mumbai,,0.0,Silver,True
+2199,Aman,21.0,Unknown Gender,Delhi,2021-12-05,0.0,Gold,False
+1960,Sneha,20.0,M,Bangalore,2022-01-10,0.0,Silver,False
+489,Riya,22.0,Unknown Gender,Delhi,,0.0,Gold,True
+1273,Riya,21.0,M,Unknown City,,0.0,Unknown,False
+1469,Kunal,21.0,M,Mumbai,2022-02-10,0.0,Bronze,True
+1590,Pooja,21.0,F,Pune,2022-01-10,0.0,Unknown,False
+2268,Riya,21.0,F,Pune,,0.0,Gold,False
+296,Kunal,21.0,M,Delhi,,0.0,Gold,False
+1723,Aman,19.0,F,Pune,,0.0,Gold,False
+1184,Sneha,23.0,F,Bangalore,2022-01-10,0.0,Gold,True
+1679,Kunal,21.0,Unknown Gender,Bangalore,2021-12-05,0.0,Silver,False
+1021,Unknown Name,21.0,M,Bangalore,,0.0,Gold,True
+864,Arjun,19.0,M,Mumbai,,0.0,Silver,True
+472,Unknown Name,23.0,M,Delhi,2021-12-05,0.0,Gold,True
+419,Unknown Name,21.0,F,Delhi,,0.0,Gold,True
+1352,Kunal,23.0,M,Pune,2022-02-10,0.0,Silver,False
+109,Kunal,19.0,M,Delhi,2022-01-10,0.0,Silver,True
+398,Unknown Name,18.0,M,Bangalore,,0.0,Bronze,False
+1029,Unknown Name,23.0,M,Unknown City,2022-01-10,0.0,Gold,False
+1896,Unknown Name,23.0,M,Delhi,2022-01-10,0.0,Silver,True
+2005,Pooja,23.0,M,Delhi,,0.0,Gold,True
+805,Aman,19.0,M,Unknown City,2020-07-15,0.0,Silver,False
+417,Kunal,20.0,F,Pune,2021-12-05,0.0,Silver,True
+379,Unknown Name,20.0,F,Pune,,0.0,Unknown,True
+2183,Riya,21.0,F,Delhi,2021-12-05,0.0,Gold,False
+503,Pooja,18.0,Unknown Gender,Delhi,,0.0,Gold,True
+780,Sneha,23.0,M,Unknown City,2022-02-10,0.0,Gold,False
+1598,Aman,20.0,M,Delhi,,0.0,Gold,False
+392,Unknown Name,21.0,M,Mumbai,,0.0,Gold,False
+1307,Aman,23.0,M,Unknown City,2022-02-10,0.0,Gold,False
+1496,Unknown Name,18.0,M,Delhi,2019-03-20,0.0,Unknown,False
+699,Aman,18.0,Unknown Gender,Bangalore,2022-01-10,0.0,Gold,True
+2487,Aman,18.0,Unknown Gender,Pune,,0.0,Gold,True
+2078,Aman,20.0,M,Delhi,2022-01-10,0.0,Bronze,True
+2236,Pooja,19.0,M,Delhi,2019-03-20,0.0,Gold,False
+1521,Pooja,21.0,F,Mumbai,2020-07-15,0.0,Gold,False
+1181,Sneha,21.0,M,Bangalore,,0.0,Silver,True
+1187,Kunal,19.0,M,Unknown City,2022-02-10,0.0,Silver,False
+1832,Aman,22.0,M,Delhi,2019-03-20,0.0,Gold,False
+110,Aman,23.0,Unknown Gender,Pune,,0.0,Gold,False
+1523,Sneha,22.0,Unknown Gender,Pune,,0.0,Gold,False
+1480,Kunal,19.0,F,Unknown City,2019-03-20,0.0,Unknown,True
+916,Kunal,21.0,M,Bangalore,2022-02-10,0.0,Gold,False
+31,Unknown Name,22.0,M,Delhi,2022-01-10,0.0,Bronze,True
+486,Sneha,21.0,F,Mumbai,,0.0,Gold,False
+2154,Riya,20.0,M,Delhi,2021-12-05,0.0,Unknown,False
+710,Kunal,19.0,M,Delhi,,0.0,Silver,False
+973,Kunal,19.0,M,Delhi,2021-12-05,0.0,Gold,False
+2441,Sneha,18.0,F,Unknown City,2019-03-20,0.0,Gold,True
+1770,Aman,21.0,Unknown Gender,Unknown City,2022-02-10,0.0,Gold,False
+732,Aman,19.0,M,Bangalore,2020-07-15,0.0,Unknown,False
+2245,Kunal,19.0,M,Bangalore,2020-07-15,0.0,Silver,False
+1190,Aman,21.0,M,Pune,2020-07-15,0.0,Unknown,True
+1907,Kunal,19.0,Unknown Gender,Mumbai,2022-01-10,0.0,Gold,True
+400,Pooja,22.0,Unknown Gender,Bangalore,2022-02-10,0.0,Gold,True
+20,Kunal,23.0,M,Delhi,,0.0,Unknown,False
+1501,Pooja,20.0,M,Mumbai,2019-03-20,0.0,Gold,True
+367,Unknown Name,22.0,M,Pune,,0.0,Unknown,True
+1658,Riya,21.0,M,Pune,2022-02-10,0.0,Silver,False
+36,Kunal,21.0,M,Mumbai,2020-07-15,0.0,Gold,False
+2260,Aman,21.0,Unknown Gender,Mumbai,2022-01-10,0.0,Gold,False
+525,Aman,23.0,F,Bangalore,2020-07-15,0.0,Gold,False
+151,Kunal,22.0,M,Delhi,2021-12-05,0.0,Silver,False
+2456,Kunal,22.0,M,Delhi,2022-02-10,0.0,Gold,False
+538,Unknown Name,23.0,M,Delhi,2022-01-10,0.0,Silver,False
+246,Aman,20.0,F,Mumbai,2019-03-20,0.0,Silver,False
+946,Aman,23.0,F,Unknown City,2020-07-15,0.0,Gold,True
+1362,Unknown Name,21.0,Unknown Gender,Unknown City,2022-02-10,0.0,Gold,False
+2450,Kunal,20.0,F,Delhi,2022-02-10,0.0,Silver,False
+275,Unknown Name,21.0,F,Pune,2022-01-10,0.0,Gold,False
+155,Unknown Name,20.0,F,Delhi,,0.0,Silver,False
+1817,Kunal,18.0,F,Delhi,2020-07-15,0.0,Gold,True
+834,Kunal,18.0,F,Bangalore,2021-12-05,0.0,Bronze,True
+176,Sneha,21.0,F,Delhi,2020-07-15,0.0,Gold,False
+1697,Arjun,21.0,Unknown Gender,Unknown City,2019-03-20,0.0,Silver,False
+854,Kunal,20.0,F,Mumbai,2022-02-10,0.0,Bronze,False
+2299,Kunal,23.0,M,Mumbai,,0.0,Gold,False
+1554,Sneha,21.0,M,Bangalore,2022-01-10,0.0,Unknown,True
+760,Sneha,19.0,M,Unknown City,,0.0,Silver,True
+361,Kunal,21.0,M,Bangalore,,0.0,Gold,False
+877,Riya,21.0,M,Bangalore,2020-07-15,0.0,Silver,True
+1492,Sneha,22.0,F,Bangalore,2019-03-20,0.0,Gold,False
+614,Pooja,19.0,Unknown Gender,Bangalore,2021-12-05,0.0,Gold,True
+682,Aman,23.0,M,Mumbai,2022-02-10,0.0,Silver,True
+219,Arjun,21.0,M,Unknown City,2021-12-05,0.0,Silver,False
+1716,Kunal,21.0,M,Delhi,,0.0,Silver,False
+2068,Unknown Name,22.0,F,Mumbai,2021-12-05,0.0,Gold,False
+599,Unknown Name,21.0,M,Pune,2022-02-10,0.0,Gold,True
+2196,Pooja,21.0,Unknown Gender,Delhi,,0.0,Gold,False
+2198,Sneha,21.0,F,Bangalore,,0.0,Silver,False
+2415,Riya,21.0,M,Mumbai,2019-03-20,0.0,Silver,False
+1149,Aman,21.0,F,Delhi,2022-01-10,0.0,Gold,True
+1158,Aman,18.0,M,Pune,2021-12-05,0.0,Silver,True
+2314,Unknown Name,22.0,M,Bangalore,2022-01-10,0.0,Bronze,True
+1814,Sneha,21.0,Unknown Gender,Delhi,,0.0,Gold,True
+2007,Unknown Name,19.0,M,Delhi,2020-07-15,0.0,Silver,False
+1718,Kunal,21.0,Unknown Gender,Mumbai,,0.0,Gold,False
+1140,Kunal,20.0,M,Pune,2021-12-05,0.0,Unknown,False
+568,Arjun,18.0,F,Pune,2022-01-10,0.0,Silver,False
+1046,Unknown Name,21.0,M,Bangalore,2022-01-10,0.0,Unknown,True
+470,Arjun,21.0,F,Pune,,0.0,Gold,True
+1159,Riya,18.0,M,Pune,2020-07-15,0.0,Silver,True
+1528,Riya,21.0,M,Delhi,,0.0,Gold,False
+1276,Sneha,21.0,M,Mumbai,,0.0,Silver,True
+239,Unknown Name,19.0,F,Delhi,2019-03-20,0.0,Gold,True
+161,Aman,21.0,M,Unknown City,,0.0,Unknown,False
+832,Aman,23.0,M,Delhi,,0.0,Gold,False
+71,Kunal,18.0,M,Delhi,2020-07-15,0.0,Bronze,False
+1705,Aman,21.0,F,Unknown City,,0.0,Silver,False
+1789,Pooja,19.0,Unknown Gender,Bangalore,2022-01-10,0.0,Bronze,False
+254,Arjun,21.0,M,Mumbai,2022-01-10,0.0,Gold,False
+2344,Pooja,21.0,Unknown Gender,Mumbai,,0.0,Bronze,True
+879,Pooja,21.0,M,Unknown City,2022-01-10,0.0,Gold,True
+1074,Kunal,20.0,M,Unknown City,2022-02-10,0.0,Silver,False
+145,Arjun,18.0,F,Pune,2019-03-20,0.0,Silver,False
+1341,Aman,21.0,M,Delhi,2022-02-10,0.0,Gold,False
+628,Unknown Name,21.0,Unknown Gender,Bangalore,2022-01-10,0.0,Gold,False
+2092,Riya,23.0,M,Bangalore,,0.0,Gold,False
+1694,Unknown Name,18.0,M,Bangalore,2022-01-10,0.0,Gold,False
+721,Unknown Name,18.0,M,Delhi,2019-03-20,0.0,Silver,True
+2086,Kunal,23.0,F,Delhi,,0.0,Silver,False
+1511,Unknown Name,20.0,F,Bangalore,,0.0,Gold,False
+700,Sneha,19.0,M,Unknown City,2022-02-10,0.0,Gold,True
+1581,Unknown Name,21.0,F,Delhi,2022-01-10,0.0,Unknown,False
+2318,Sneha,19.0,Unknown Gender,Delhi,2022-02-10,0.0,Silver,False
+181,Unknown Name,20.0,M,Delhi,2022-01-10,0.0,Gold,True
+1244,Aman,18.0,M,Bangalore,2020-07-15,0.0,Gold,False
+1778,Pooja,18.0,F,Mumbai,2022-02-10,0.0,Bronze,False
+121,Aman,21.0,Unknown Gender,Mumbai,,0.0,Silver,False
+2285,Riya,21.0,M,Pune,2019-03-20,0.0,Gold,False
+2100,Aman,20.0,M,Pune,,0.0,Gold,False
+1069,Unknown Name,21.0,M,Unknown City,2022-01-10,0.0,Gold,False
+1505,Arjun,23.0,M,Delhi,2019-03-20,0.0,Bronze,False
+1838,Riya,20.0,M,Bangalore,2021-12-05,0.0,Gold,True
+960,Aman,21.0,F,Delhi,2021-12-05,0.0,Gold,False
+2026,Kunal,21.0,Unknown Gender,Delhi,2022-01-10,0.0,Gold,False
+798,Unknown Name,21.0,F,Pune,,0.0,Silver,True
+2075,Pooja,21.0,M,Pune,,0.0,Gold,True
+1800,Aman,23.0,M,Delhi,,0.0,Unknown,False
+2486,Kunal,22.0,F,Bangalore,2019-03-20,0.0,Silver,True
+620,Kunal,20.0,F,Pune,2019-03-20,0.0,Silver,False
+49,Kunal,23.0,M,Unknown City,,0.0,Gold,False
+1894,Unknown Name,21.0,M,Mumbai,,0.0,Gold,True
+2430,Aman,19.0,F,Bangalore,,0.0,Bronze,True
+1545,Arjun,21.0,M,Delhi,,0.0,Silver,False
+983,Kunal,21.0,M,Mumbai,,0.0,Gold,True
+54,Sneha,18.0,F,Delhi,2019-03-20,0.0,Gold,False
+1353,Sneha,18.0,F,Unknown City,2019-03-20,0.0,Bronze,True
+1912,Unknown Name,19.0,M,Mumbai,,0.0,Gold,True
+1390,Aman,21.0,F,Mumbai,,0.0,Gold,False
+1608,Pooja,20.0,F,Bangalore,2022-01-10,0.0,Unknown,False
+1086,Unknown Name,23.0,F,Mumbai,2019-03-20,0.0,Gold,False
+1326,Aman,18.0,M,Delhi,2020-07-15,0.0,Bronze,True
+124,Sneha,21.0,F,Mumbai,2021-12-05,0.0,Gold,False
+2235,Kunal,21.0,M,Delhi,,0.0,Bronze,False
+146,Riya,21.0,M,Unknown City,2020-07-15,0.0,Gold,False
+1166,Riya,22.0,M,Bangalore,2022-02-10,0.0,Unknown,False
+340,Unknown Name,22.0,F,Delhi,2020-07-15,0.0,Silver,True
+510,Riya,21.0,M,Unknown City,2022-02-10,0.0,Unknown,False
+272,Arjun,18.0,F,Unknown City,2021-12-05,0.0,Gold,False
+245,Unknown Name,21.0,Unknown Gender,Mumbai,,0.0,Unknown,False
+477,Arjun,23.0,F,Delhi,2022-02-10,0.0,Gold,False
+1915,Unknown Name,21.0,M,Bangalore,2022-01-10,0.0,Silver,False
+1805,Arjun,21.0,M,Mumbai,2021-12-05,0.0,Bronze,False
+2261,Aman,22.0,F,Bangalore,,0.0,Gold,False
+2462,Aman,22.0,Unknown Gender,Unknown City,2022-01-10,0.0,Gold,True
+1132,Aman,20.0,F,Delhi,2021-12-05,0.0,Bronze,True
+1951,Kunal,21.0,M,Delhi,,0.0,Gold,False
+1044,Aman,22.0,M,Bangalore,2020-07-15,0.0,Gold,False
+1138,Arjun,21.0,F,Delhi,,0.0,Silver,False
+1597,Arjun,21.0,F,Mumbai,2020-07-15,0.0,Unknown,False
+2011,Riya,23.0,M,Bangalore,2021-12-05,0.0,Bronze,False
+914,Riya,21.0,F,Unknown City,2021-12-05,0.0,Gold,True
+1867,Unknown Name,20.0,Unknown Gender,Mumbai,,0.0,Bronze,True
+975,Kunal,21.0,M,Delhi,2022-01-10,0.0,Gold,False
+984,Arjun,23.0,M,Delhi,,0.0,Gold,False
+1690,Unknown Name,18.0,Unknown Gender,Unknown City,,0.0,Gold,False
+262,Unknown Name,22.0,M,Delhi,2021-12-05,0.0,Gold,True
+1561,Aman,22.0,F,Mumbai,,0.0,Gold,False
+40,Kunal,22.0,M,Delhi,2022-02-10,0.0,Bronze,True
+561,Unknown Name,21.0,M,Pune,2021-12-05,0.0,Bronze,False
+1356,Unknown Name,21.0,Unknown Gender,Mumbai,2019-03-20,0.0,Silver,False
+1291,Aman,18.0,Unknown Gender,Pune,2019-03-20,0.0,Gold,True
+1381,Aman,23.0,Unknown Gender,Pune,,0.0,Unknown,False
+1812,Unknown Name,21.0,M,Bangalore,2022-02-10,0.0,Silver,False
+1934,Aman,20.0,F,Pune,2022-02-10,0.0,Unknown,False
+1134,Arjun,20.0,M,Mumbai,2022-02-10,0.0,Gold,False
+2031,Riya,19.0,M,Bangalore,2022-01-10,0.0,Unknown,False
+160,Unknown Name,21.0,M,Unknown City,2020-07-15,0.0,Unknown,True
+1980,Pooja,23.0,M,Mumbai,2019-03-20,0.0,Gold,False
+850,Arjun,22.0,M,Pune,2022-02-10,0.0,Silver,True
+543,Sneha,23.0,Unknown Gender,Pune,2022-01-10,0.0,Silver,True
+846,Unknown Name,22.0,M,Unknown City,2021-12-05,0.0,Silver,False
+2495,Aman,19.0,F,Delhi,,0.0,Bronze,True
+2356,Pooja,18.0,F,Delhi,2021-12-05,0.0,Unknown,False
+16,Aman,22.0,M,Unknown City,,0.0,Gold,False
+183,Aman,20.0,M,Pune,2022-01-10,0.0,Silver,False
+1122,Unknown Name,20.0,F,Pune,2019-03-20,0.0,Unknown,True
+2059,Arjun,23.0,M,Mumbai,2020-07-15,0.0,Gold,False
+693,Kunal,22.0,M,Mumbai,,0.0,Silver,False
+1512,Kunal,21.0,F,Delhi,2022-01-10,0.0,Gold,False
+1387,Unknown Name,21.0,F,Delhi,2020-07-15,0.0,Silver,True
+1600,Aman,19.0,Unknown Gender,Delhi,2022-02-10,0.0,Silver,False
+702,Aman,18.0,M,Mumbai,,0.0,Gold,False
+1709,Riya,21.0,M,Mumbai,,0.0,Silver,True
+731,Arjun,23.0,Unknown Gender,Mumbai,,0.0,Silver,True
+1701,Kunal,19.0,Unknown Gender,Delhi,,0.0,Silver,False
+2176,Aman,22.0,Unknown Gender,Mumbai,2022-02-10,0.0,Silver,True
+1851,Pooja,19.0,M,Pune,,0.0,Silver,False
+442,Pooja,21.0,F,Unknown City,2020-07-15,0.0,Unknown,True
+2052,Aman,21.0,F,Unknown City,2021-12-05,0.0,Silver,True
+2286,Riya,21.0,Unknown Gender,Pune,,0.0,Gold,False
+2284,Unknown Name,21.0,Unknown Gender,Mumbai,,0.0,Gold,True
+2251,Kunal,21.0,M,Mumbai,,0.0,Gold,False
+598,Aman,21.0,Unknown Gender,Mumbai,2021-12-05,0.0,Bronze,False
+521,Aman,18.0,Unknown Gender,Pune,,0.0,Gold,True
+736,Unknown Name,19.0,F,Pune,2022-01-10,0.0,Gold,False
+1388,Arjun,18.0,Unknown Gender,Delhi,,0.0,Silver,False
+82,Unknown Name,21.0,M,Delhi,2022-02-10,0.0,Silver,False
+1309,Unknown Name,23.0,M,Mumbai,2019-03-20,0.0,Silver,False
+915,Arjun,21.0,F,Pune,2021-12-05,0.0,Unknown,False
+1334,Sneha,18.0,F,Delhi,2019-03-20,0.0,Unknown,False
+98,Unknown Name,20.0,F,Pune,2022-02-10,0.0,Gold,False
+758,Aman,21.0,F,Pune,2022-01-10,0.0,Gold,False
+711,Unknown Name,18.0,M,Mumbai,2022-01-10,0.0,Gold,False
+1183,Pooja,21.0,F,Pune,2022-02-10,0.0,Gold,False
+1949,Riya,20.0,F,Bangalore,2020-07-15,0.0,Silver,False
+105,Kunal,21.0,M,Delhi,2020-07-15,0.0,Bronze,True
+402,Sneha,23.0,F,Delhi,2021-12-05,0.0,Bronze,False
+827,Arjun,23.0,M,Mumbai,2021-12-05,0.0,Silver,False
+1522,Aman,21.0,F,Pune,,0.0,Gold,False
+137,Unknown Name,23.0,F,Delhi,2019-03-20,0.0,Silver,False
+629,Unknown Name,20.0,M,Bangalore,2022-02-10,0.0,Silver,False
+856,Kunal,19.0,Unknown Gender,Delhi,2021-12-05,0.0,Gold,True
+1818,Kunal,20.0,M,Pune,2021-12-05,0.0,Silver,False
+1040,Kunal,21.0,F,Delhi,,0.0,Gold,False
+406,Pooja,18.0,M,Mumbai,2022-02-10,0.0,Silver,True
+408,Aman,20.0,M,Unknown City,2021-12-05,0.0,Gold,False
+1562,Aman,20.0,Unknown Gender,Pune,2022-02-10,0.0,Gold,False
+1224,Aman,19.0,F,Unknown City,,0.0,Silver,False
+1675,Aman,23.0,M,Delhi,2019-03-20,0.0,Gold,False
+2422,Kunal,18.0,M,Mumbai,2019-03-20,0.0,Gold,False
+1751,Riya,21.0,F,Pune,,0.0,Silver,True
+1342,Kunal,20.0,M,Delhi,,0.0,Gold,False
+2249,Unknown Name,20.0,M,Delhi,,0.0,Gold,False
+2038,Unknown Name,21.0,F,Pune,,0.0,Bronze,False
+2416,Unknown Name,19.0,F,Pune,,0.0,Silver,False
+454,Unknown Name,18.0,F,Pune,2021-12-05,0.0,Unknown,True
+2272,Kunal,22.0,Unknown Gender,Pune,,0.0,Bronze,True
+1902,Pooja,21.0,F,Delhi,2022-02-10,0.0,Silver,False
+1267,Riya,19.0,M,Mumbai,2022-02-10,0.0,Bronze,False
+2409,Pooja,21.0,Unknown Gender,Bangalore,2019-03-20,0.0,Silver,False
+14,Pooja,21.0,F,Unknown City,2021-12-05,0.0,Unknown,False
+1609,Riya,21.0,F,Mumbai,2022-01-10,0.0,Silver,False
+874,Unknown Name,21.0,Unknown Gender,Delhi,2022-02-10,0.0,Gold,True
+494,Kunal,23.0,Unknown Gender,Unknown City,2019-03-20,0.0,Gold,True
+515,Aman,22.0,F,Pune,2021-12-05,0.0,Silver,True
+208,Kunal,19.0,Unknown Gender,Bangalore,,0.0,Gold,False
+19,Riya,22.0,F,Unknown City,,0.0,Gold,False
+459,Kunal,21.0,M,Bangalore,2022-02-10,0.0,Bronze,False
+2431,Kunal,22.0,F,Pune,2021-12-05,0.0,Gold,False
+1714,Aman,20.0,M,Mumbai,,0.0,Unknown,True
+2271,Riya,22.0,M,Unknown City,2019-03-20,0.0,Silver,False
+214,Riya,21.0,F,Mumbai,2019-03-20,0.0,Gold,True
+962,Arjun,20.0,F,Mumbai,,0.0,Gold,False
+2044,Aman,23.0,M,Delhi,,0.0,Gold,True
+1948,Kunal,18.0,F,Unknown City,2021-12-05,0.0,Bronze,True
+665,Pooja,21.0,M,Delhi,,0.0,Bronze,False
+274,Unknown Name,22.0,M,Mumbai,,0.0,Bronze,False
+2391,Sneha,19.0,Unknown Gender,Pune,,0.0,Silver,True
+1088,Kunal,22.0,M,Delhi,,0.0,Silver,False
+891,Aman,23.0,F,Delhi,2021-12-05,0.0,Unknown,False
+395,Kunal,21.0,M,Mumbai,2021-12-05,0.0,Unknown,False
+584,Unknown Name,21.0,M,Mumbai,2021-12-05,0.0,Gold,False
+1678,Aman,20.0,F,Delhi,2019-03-20,0.0,Bronze,False
+1928,Unknown Name,19.0,M,Mumbai,2019-03-20,0.0,Gold,True
+1767,Kunal,22.0,M,Unknown City,,0.0,Silver,False
+695,Riya,20.0,F,Delhi,2019-03-20,0.0,Gold,False
+1656,Sneha,21.0,M,Pune,2020-07-15,0.0,Silver,False
+282,Kunal,20.0,Unknown Gender,Delhi,2022-02-10,0.0,Silver,True
+2021,Sneha,22.0,F,Delhi,,0.0,Bronze,True
+1957,Unknown Name,21.0,M,Delhi,2022-02-10,0.0,Gold,False
+1308,Kunal,18.0,M,Delhi,2019-03-20,0.0,Bronze,False
+2004,Unknown Name,21.0,Unknown Gender,Unknown City,2022-02-10,0.0,Unknown,False
+576,Kunal,22.0,F,Bangalore,,0.0,Silver,True
+862,Kunal,21.0,M,Unknown City,2019-03-20,0.0,Gold,True
+1240,Aman,18.0,F,Delhi,2022-01-10,0.0,Gold,True
+1802,Kunal,22.0,F,Mumbai,,0.0,Gold,False
+1994,Sneha,23.0,Unknown Gender,Mumbai,2022-02-10,0.0,Unknown,True
+381,Kunal,21.0,M,Unknown City,2020-07-15,0.0,Gold,False
+1526,Pooja,23.0,F,Delhi,2020-07-15,0.0,Silver,False
+308,Aman,19.0,M,Bangalore,,0.0,Silver,False
+1360,Aman,22.0,Unknown Gender,Unknown City,,0.0,Unknown,False
+892,Riya,20.0,M,Pune,2021-12-05,0.0,Silver,True
+2148,Pooja,23.0,M,Pune,2019-03-20,0.0,Silver,False
+1798,Aman,21.0,Unknown Gender,Bangalore,2021-12-05,0.0,Silver,False
+159,Sneha,23.0,Unknown Gender,Pune,2021-12-05,0.0,Silver,False
+353,Unknown Name,21.0,F,Delhi,2022-01-10,0.0,Bronze,False
+1231,Pooja,19.0,Unknown Gender,Unknown City,2020-07-15,0.0,Bronze,False
+312,Kunal,19.0,M,Unknown City,,0.0,Silver,False
+307,Kunal,23.0,M,Pune,,0.0,Unknown,True
+1260,Pooja,21.0,M,Bangalore,2021-12-05,0.0,Gold,False
+378,Unknown Name,19.0,M,Pune,2022-01-10,0.0,Silver,False
+1560,Arjun,21.0,Unknown Gender,Unknown City,2022-02-10,0.0,Gold,True
+1710,Arjun,21.0,M,Delhi,2019-03-20,0.0,Gold,True
+1242,Unknown Name,21.0,M,Delhi,2021-12-05,0.0,Gold,True
+675,Sneha,21.0,Unknown Gender,Pune,2021-12-05,0.0,Silver,False
+2413,Kunal,21.0,M,Mumbai,,0.0,Bronze,False
+1006,Unknown Name,19.0,M,Delhi,2022-02-10,0.0,Unknown,False
+2065,Unknown Name,21.0,Unknown Gender,Mumbai,2021-12-05,0.0,Unknown,False
+1765,Aman,23.0,M,Unknown City,,0.0,Gold,False
+1248,Unknown Name,22.0,Unknown Gender,Unknown City,,0.0,Silver,False
+73,Sneha,23.0,M,Delhi,,0.0,Bronze,False
+1986,Unknown Name,22.0,Unknown Gender,Pune,,0.0,Gold,False
+1094,Riya,21.0,M,Pune,2019-03-20,0.0,Bronze,False
+708,Kunal,23.0,M,Delhi,2022-01-10,0.0,Silver,False
+295,Aman,22.0,F,Bangalore,,0.0,Gold,False
+2197,Aman,21.0,M,Mumbai,2021-12-05,0.0,Bronze,False
+1233,Riya,21.0,M,Unknown City,2021-12-05,0.0,Gold,False
+2402,Aman,19.0,F,Unknown City,2019-03-20,0.0,Silver,False
+1495,Aman,21.0,M,Delhi,2020-07-15,0.0,Unknown,False
+426,Pooja,21.0,M,Mumbai,2022-01-10,0.0,Silver,False
+2494,Aman,18.0,M,Mumbai,2022-02-10,0.0,Gold,False
+1717,Aman,21.0,M,Unknown City,2019-03-20,0.0,Silver,False
+1424,Arjun,23.0,F,Mumbai,2020-07-15,0.0,Unknown,False
+348,Unknown Name,21.0,F,Pune,2020-07-15,0.0,Gold,True
+2401,Aman,22.0,M,Delhi,2022-02-10,0.0,Gold,False
+2397,Riya,23.0,M,Mumbai,,0.0,Gold,False
+999,Aman,22.0,Unknown Gender,Bangalore,,0.0,Silver,False
+1578,Arjun,21.0,M,Bangalore,2022-02-10,0.0,Gold,False
+586,Aman,20.0,F,Delhi,2022-01-10,0.0,Silver,False
+948,Arjun,19.0,F,Unknown City,2020-07-15,0.0,Gold,True
+787,Kunal,22.0,M,Delhi,2020-07-15,0.0,Unknown,False
+793,Riya,21.0,M,Bangalore,2020-07-15,0.0,Gold,True
+1531,Sneha,22.0,M,Mumbai,,0.0,Unknown,False
+1411,Kunal,21.0,M,Pune,,0.0,Bronze,True
+1682,Pooja,21.0,M,Pune,2019-03-20,0.0,Gold,False
+1287,Aman,21.0,M,Delhi,,0.0,Gold,True
+2360,Arjun,21.0,M,Delhi,2022-01-10,0.0,Gold,False
+21,Arjun,21.0,M,Delhi,,0.0,Gold,True
+1196,Kunal,21.0,M,Delhi,,0.0,Gold,False
+2426,Kunal,21.0,M,Delhi,2022-02-10,0.0,Bronze,True
+716,Kunal,22.0,M,Bangalore,2021-12-05,0.0,Bronze,True
+2383,Aman,21.0,Unknown Gender,Delhi,,0.0,Silver,False
+2258,Riya,21.0,M,Unknown City,2020-07-15,0.0,Gold,False
+859,Pooja,21.0,F,Bangalore,,0.0,Silver,True
+50,Kunal,20.0,F,Bangalore,2022-01-10,0.0,Bronze,False
+1463,Unknown Name,22.0,F,Bangalore,,0.0,Bronze,False
+1266,Arjun,18.0,F,Delhi,,0.0,Gold,False
+483,Riya,20.0,Unknown Gender,Unknown City,2021-12-05,0.0,Unknown,False
+484,Pooja,21.0,M,Delhi,2019-03-20,0.0,Silver,False
+278,Sneha,21.0,F,Delhi,2022-02-10,0.0,Gold,False
+989,Unknown Name,23.0,M,Delhi,2021-12-05,0.0,Gold,True
+650,Pooja,22.0,Unknown Gender,Delhi,2022-01-10,0.0,Bronze,True
+330,Pooja,21.0,M,Delhi,2020-07-15,0.0,Silver,False
+2002,Pooja,23.0,M,Delhi,2022-01-10,0.0,Unknown,False
+944,Riya,22.0,Unknown Gender,Delhi,2022-01-10,0.0,Gold,True
+1277,Pooja,20.0,Unknown Gender,Delhi,2021-12-05,0.0,Gold,True
+1050,Pooja,21.0,M,Delhi,2019-03-20,0.0,Silver,False
+68,Arjun,22.0,Unknown Gender,Bangalore,,0.0,Unknown,False
+337,Sneha,22.0,F,Pune,2020-07-15,0.0,Silver,True
+1279,Kunal,23.0,F,Pune,2022-01-10,0.0,Bronze,True
+661,Aman,21.0,M,Pune,2020-07-15,0.0,Gold,True
+2398,Kunal,21.0,M,Unknown City,2022-02-10,0.0,Silver,False
+728,Sneha,20.0,M,Delhi,2019-03-20,0.0,Unknown,False
+343,Unknown Name,21.0,Unknown Gender,Pune,2021-12-05,0.0,Gold,False
+2222,Kunal,18.0,M,Pune,,0.0,Unknown,True
+2287,Arjun,23.0,M,Delhi,,0.0,Silver,True
+2262,Kunal,21.0,M,Delhi,,0.0,Silver,True
+1145,Unknown Name,22.0,Unknown Gender,Unknown City,2019-03-20,0.0,Bronze,False
+1847,Kunal,23.0,M,Pune,2019-03-20,0.0,Silver,False
+1969,Arjun,22.0,F,Delhi,,0.0,Gold,False
+524,Unknown Name,21.0,M,Pune,2022-02-10,0.0,Gold,False
+579,Unknown Name,21.0,M,Unknown City,2019-03-20,0.0,Gold,False
+1186,Pooja,21.0,M,Delhi,2020-07-15,0.0,Silver,True
+1111,Unknown Name,18.0,Unknown Gender,Unknown City,,0.0,Gold,False
+1937,Aman,22.0,M,Bangalore,2020-07-15,0.0,Bronze,False
+730,Pooja,23.0,F,Unknown City,2022-02-10,0.0,Unknown,False
+1429,Pooja,22.0,Unknown Gender,Pune,2021-12-05,0.0,Gold,False
+1645,Arjun,22.0,F,Pune,2020-07-15,0.0,Bronze,False
+1490,Arjun,21.0,M,Pune,2019-03-20,0.0,Silver,False
+1281,Pooja,21.0,M,Unknown City,2020-07-15,0.0,Bronze,False
+303,Riya,21.0,M,Delhi,2019-03-20,0.0,Silver,False
+2067,Arjun,22.0,M,Delhi,2022-02-10,0.0,Gold,False
+1399,Unknown Name,21.0,F,Delhi,2019-03-20,0.0,Bronze,False
+2355,Aman,21.0,F,Delhi,,0.0,Gold,False
+943,Unknown Name,21.0,M,Mumbai,2022-01-10,0.0,Unknown,False
+931,Arjun,19.0,M,Mumbai,,0.0,Silver,False
+1527,Unknown Name,21.0,M,Pune,2020-07-15,0.0,Gold,True
+1990,Riya,21.0,M,Mumbai,,0.0,Silver,False
+2363,Aman,22.0,M,Unknown City,2022-01-10,0.0,Unknown,False
+1306,Aman,23.0,M,Unknown City,2022-01-10,0.0,Gold,True
+1542,Pooja,23.0,F,Delhi,2019-03-20,0.0,Bronze,True
+2473,Pooja,23.0,F,Mumbai,,0.0,Gold,False
+233,Aman,21.0,M,Delhi,,0.0,Unknown,False
+67,Riya,21.0,F,Bangalore,2021-12-05,0.0,Silver,False
+2193,Pooja,18.0,M,Pune,,0.0,Gold,True
+537,Unknown Name,18.0,Unknown Gender,Delhi,2022-01-10,0.0,Gold,True
+2267,Kunal,21.0,Unknown Gender,Mumbai,2019-03-20,0.0,Bronze,False
+1775,Riya,23.0,M,Unknown City,,0.0,Bronze,False
+142,Unknown Name,18.0,F,Pune,2021-12-05,0.0,Silver,False
+365,Riya,21.0,F,Delhi,,0.0,Gold,False
+28,Sneha,18.0,Unknown Gender,Unknown City,,0.0,Gold,False
+526,Aman,20.0,Unknown Gender,Bangalore,2022-01-10,0.0,Gold,True
+424,Unknown Name,20.0,Unknown Gender,Delhi,2020-07-15,0.0,Silver,False
+1299,Unknown Name,21.0,F,Pune,2022-01-10,0.0,Gold,True
+980,Unknown Name,22.0,F,Delhi,,0.0,Gold,False
+1660,Unknown Name,21.0,M,Mumbai,2020-07-15,0.0,Gold,False
+667,Aman,18.0,F,Delhi,,0.0,Gold,True
+1214,Kunal,19.0,M,Pune,2021-12-05,0.0,Silver,False
+1160,Kunal,19.0,F,Unknown City,2019-03-20,0.0,Gold,False
+360,Kunal,20.0,Unknown Gender,Mumbai,,0.0,Unknown,False
+2151,Pooja,22.0,M,Mumbai,2019-03-20,0.0,Gold,True
+435,Riya,18.0,Unknown Gender,Mumbai,2022-01-10,0.0,Unknown,True
+2373,Pooja,21.0,M,Unknown City,2019-03-20,0.0,Unknown,False
+2123,Riya,21.0,Unknown Gender,Mumbai,2019-03-20,0.0,Silver,True
+1179,Riya,21.0,F,Unknown City,2019-03-20,0.0,Unknown,False
+578,Unknown Name,21.0,Unknown Gender,Pune,2021-12-05,0.0,Silver,False
+389,Sneha,22.0,M,Bangalore,2022-01-10,0.0,Gold,False
+236,Kunal,21.0,M,Unknown City,,0.0,Unknown,False
+1985,Kunal,22.0,F,Delhi,,0.0,Gold,False
+77,Aman,22.0,Unknown Gender,Pune,2022-02-10,0.0,Silver,False
+59,Pooja,18.0,M,Delhi,2020-07-15,0.0,Silver,True
+1403,Unknown Name,22.0,Unknown Gender,Mumbai,,0.0,Gold,False
+762,Kunal,22.0,F,Mumbai,2022-01-10,0.0,Silver,False
+383,Unknown Name,20.0,M,Delhi,2022-01-10,0.0,Gold,False
+250,Aman,21.0,Unknown Gender,Pune,2022-02-10,0.0,Gold,False
+1557,Sneha,21.0,F,Pune,2019-03-20,0.0,Gold,False
+2082,Unknown Name,21.0,Unknown Gender,Mumbai,2020-07-15,0.0,Gold,True
+449,Unknown Name,23.0,M,Bangalore,,0.0,Bronze,False
+1470,Unknown Name,19.0,F,Delhi,2020-07-15,0.0,Unknown,False
+909,Sneha,23.0,F,Delhi,2022-01-10,0.0,Silver,False
+2187,Arjun,22.0,M,Delhi,2022-01-10,0.0,Gold,True
+2049,Sneha,19.0,F,Delhi,,0.0,Silver,False
+1785,Aman,21.0,M,Unknown City,2019-03-20,0.0,Silver,False
+7,Kunal,21.0,M,Delhi,2022-02-10,0.0,Gold,False
+2488,Unknown Name,19.0,M,Mumbai,2022-02-10,0.0,Silver,False
+679,Riya,21.0,M,Pune,2019-03-20,0.0,Silver,False
+797,Riya,21.0,F,Bangalore,,0.0,Gold,False
+900,Pooja,21.0,M,Unknown City,2021-12-05,0.0,Bronze,False
+1936,Arjun,20.0,M,Delhi,2022-02-10,0.0,Gold,True
+817,Pooja,21.0,F,Unknown City,2019-03-20,0.0,Gold,False
+1357,Pooja,21.0,F,Delhi,2021-12-05,0.0,Unknown,False
+2175,Unknown Name,22.0,Unknown Gender,Unknown City,,0.0,Bronze,True
+1,Aman,22.0,F,Pune,2019-03-20,0.0,Silver,False
+1953,Aman,21.0,M,Unknown City,2021-12-05,0.0,Gold,False
+1367,Unknown Name,23.0,F,Bangalore,,0.0,Gold,False
+43,Aman,20.0,M,Mumbai,2020-07-15,0.0,Silver,True
+69,Kunal,21.0,M,Bangalore,2022-02-10,0.0,Bronze,True
+1843,Kunal,23.0,M,Unknown City,2020-07-15,0.0,Unknown,False
+2146,Riya,18.0,M,Pune,,0.0,Silver,True
+1290,Unknown Name,21.0,F,Delhi,2020-07-15,0.0,Gold,False
+759,Aman,21.0,M,Bangalore,,0.0,Silver,False
+387,Unknown Name,20.0,F,Unknown City,2022-01-10,0.0,Unknown,True
+542,Aman,21.0,M,Delhi,2020-07-15,0.0,Silver,True
+2283,Unknown Name,21.0,M,Bangalore,,0.0,Gold,False
+1020,Sneha,21.0,F,Unknown City,2021-12-05,0.0,Silver,True
+249,Riya,21.0,F,Delhi,2022-02-10,0.0,Gold,False
+223,Unknown Name,21.0,M,Pune,2019-03-20,0.0,Gold,False
+1332,Kunal,20.0,M,Mumbai,,0.0,Silver,True
+2483,Unknown Name,22.0,M,Delhi,2022-02-10,0.0,Gold,False
+1247,Aman,21.0,M,Pune,,0.0,Gold,False
+75,Kunal,19.0,F,Pune,2019-03-20,0.0,Silver,True
+4,Pooja,21.0,M,Bangalore,2021-12-05,0.0,Bronze,True
+1659,Kunal,22.0,M,Mumbai,,0.0,Gold,False
+967,Aman,23.0,F,Pune,2022-01-10,0.0,Silver,False
+1204,Arjun,21.0,F,Delhi,2022-02-10,0.0,Silver,False
+876,Sneha,21.0,M,Delhi,2021-12-05,0.0,Silver,False
+2395,Unknown Name,20.0,M,Mumbai,,0.0,Silver,False
+1374,Riya,18.0,M,Unknown City,2022-01-10,0.0,Gold,False
+2292,Sneha,18.0,M,Bangalore,2019-03-20,0.0,Bronze,True
+937,Kunal,21.0,M,Bangalore,2019-03-20,0.0,Silver,False
+1284,Kunal,22.0,M,Delhi,2022-02-10,0.0,Gold,False
+1776,Unknown Name,21.0,F,Mumbai,2020-07-15,0.0,Gold,True
+1071,Kunal,18.0,M,Pune,,0.0,Gold,True
+1333,Sneha,18.0,Unknown Gender,Delhi,2022-02-10,0.0,Silver,False
+936,Riya,22.0,Unknown Gender,Mumbai,,0.0,Silver,True
+837,Sneha,20.0,F,Unknown City,2022-02-10,0.0,Unknown,True
+1431,Unknown Name,18.0,F,Bangalore,2022-02-10,0.0,Gold,False
+1929,Aman,21.0,M,Bangalore,2020-07-15,0.0,Gold,False
+2444,Aman,22.0,M,Delhi,,0.0,Bronze,False
+2029,Kunal,21.0,Unknown Gender,Delhi,2021-12-05,0.0,Gold,True
+346,Unknown Name,21.0,Unknown Gender,Delhi,2019-03-20,0.0,Bronze,False
+2117,Aman,21.0,Unknown Gender,Unknown City,,0.0,Gold,True
+794,Pooja,21.0,F,Pune,,0.0,Gold,False
+2372,Riya,18.0,M,Delhi,2022-02-10,0.0,Silver,False
+548,Unknown Name,21.0,M,Mumbai,2021-12-05,0.0,Gold,False
+1432,Riya,20.0,M,Pune,2020-07-15,0.0,Bronze,False
+2259,Kunal,20.0,M,Mumbai,2019-03-20,0.0,Bronze,False
+342,Sneha,22.0,F,Unknown City,2019-03-20,0.0,Gold,True
+2263,Aman,21.0,M,Pune,2020-07-15,0.0,Gold,False
+1037,Kunal,20.0,M,Pune,2019-03-20,0.0,Gold,False
+23,Unknown Name,23.0,F,Pune,,0.0,Bronze,False
+2461,Kunal,21.0,M,Pune,2022-01-10,0.0,Unknown,False
+910,Sneha,21.0,Unknown Gender,Delhi,2022-02-10,0.0,Unknown,False
+452,Kunal,23.0,M,Bangalore,,0.0,Gold,True
+1312,Sneha,21.0,M,Unknown City,2020-07-15,0.0,Gold,True
+2184,Aman,18.0,M,Delhi,2022-02-10,0.0,Unknown,True
+1859,Unknown Name,21.0,Unknown Gender,Pune,,0.0,Gold,True
+1507,Unknown Name,23.0,M,Unknown City,,0.0,Unknown,False
+313,Sneha,19.0,M,Mumbai,2022-01-10,0.0,Bronze,False
+833,Arjun,21.0,M,Delhi,2021-12-05,0.0,Gold,True
+1202,Aman,21.0,F,Bangalore,2022-02-10,0.0,Gold,False
+188,Kunal,19.0,Unknown Gender,Delhi,2022-02-10,0.0,Unknown,False
+55,Sneha,23.0,M,Pune,2022-02-10,0.0,Bronze,False
+1921,Kunal,21.0,Unknown Gender,Unknown City,2022-02-10,0.0,Bronze,False
+1702,Aman,22.0,Unknown Gender,Bangalore,,0.0,Gold,False
+698,Unknown Name,20.0,M,Delhi,2021-12-05,0.0,Unknown,True
+286,Pooja,18.0,M,Unknown City,2022-02-10,0.0,Unknown,True
+1405,Kunal,18.0,M,Unknown City,2022-02-10,0.0,Unknown,True
+1930,Kunal,21.0,M,Mumbai,2020-07-15,0.0,Unknown,True
+227,Aman,21.0,M,Delhi,2019-03-20,0.0,Gold,True
+2024,Unknown Name,21.0,M,Unknown City,2019-03-20,0.0,Gold,False
+2250,Kunal,22.0,M,Mumbai,2022-01-10,0.0,Silver,False
+1933,Unknown Name,18.0,F,Delhi,,0.0,Gold,False
+517,Aman,21.0,F,Bangalore,2022-01-10,0.0,Gold,False
+118,Kunal,18.0,F,Delhi,,0.0,Gold,False
+1278,Arjun,19.0,Unknown Gender,Delhi,,0.0,Unknown,True
+2377,Arjun,21.0,M,Bangalore,,0.0,Gold,False
+1620,Aman,18.0,F,Mumbai,,0.0,Silver,False
+1784,Aman,18.0,M,Pune,2019-03-20,0.0,Silver,False
+1992,Sneha,21.0,M,Delhi,2020-07-15,0.0,Gold,False
+1012,Pooja,19.0,F,Mumbai,,0.0,Unknown,False
+2275,Kunal,21.0,Unknown Gender,Bangalore,2022-01-10,0.0,Gold,False
+902,Kunal,21.0,F,Mumbai,,0.0,Bronze,False
+1451,Aman,23.0,F,Mumbai,2019-03-20,0.0,Bronze,False
+2027,Arjun,23.0,Unknown Gender,Mumbai,2022-02-10,0.0,Gold,False
+1918,Arjun,21.0,F,Pune,2019-03-20,0.0,Unknown,True
+1829,Sneha,18.0,F,Delhi,2020-07-15,0.0,Gold,False
+1574,Aman,18.0,Unknown Gender,Bangalore,2021-12-05,0.0,Silver,False
+654,Kunal,18.0,M,Unknown City,2020-07-15,0.0,Unknown,False
+2138,Riya,21.0,F,Bangalore,2021-12-05,0.0,Gold,False
+848,Arjun,20.0,M,Mumbai,,0.0,Gold,False
+259,Aman,21.0,M,Bangalore,2022-01-10,0.0,Gold,False
+1899,Sneha,21.0,F,Delhi,2020-07-15,0.0,Gold,False
+724,Unknown Name,21.0,F,Unknown City,2020-07-15,0.0,Unknown,True
+1459,Riya,22.0,M,Pune,2019-03-20,0.0,Silver,False
+1911,Aman,21.0,M,Pune,2020-07-15,0.0,Silver,True
+670,Kunal,18.0,M,Pune,,0.0,Unknown,False
+947,Kunal,18.0,M,Unknown City,,0.0,Gold,False
+2022,Sneha,21.0,F,Pune,2019-03-20,0.0,Silver,False
+884,Aman,21.0,M,Unknown City,2021-12-05,0.0,Unknown,False
+334,Aman,19.0,F,Pune,2020-07-15,0.0,Gold,True
+1909,Arjun,19.0,F,Bangalore,2022-01-10,0.0,Unknown,True
+1106,Aman,18.0,M,Mumbai,,0.0,Bronze,True
+2036,Aman,21.0,F,Unknown City,,0.0,Unknown,False
+582,Aman,21.0,F,Delhi,2022-01-10,0.0,Gold,False
+1693,Unknown Name,18.0,F,Unknown City,,0.0,Gold,True
+1472,Aman,22.0,F,Delhi,2021-12-05,0.0,Silver,False
+1203,Kunal,23.0,F,Delhi,2022-02-10,0.0,Unknown,True
+875,Riya,23.0,F,Unknown City,2022-01-10,0.0,Unknown,False
+1423,Unknown Name,21.0,M,Unknown City,2019-03-20,0.0,Gold,False
+1172,Riya,23.0,Unknown Gender,Pune,2021-12-05,0.0,Gold,False
+2190,Arjun,21.0,M,Bangalore,2021-12-05,0.0,Gold,False
+2152,Aman,23.0,Unknown Gender,Pune,2021-12-05,0.0,Silver,False
+1047,Aman,21.0,Unknown Gender,Pune,2019-03-20,0.0,Gold,False
+571,Pooja,21.0,M,Delhi,2019-03-20,0.0,Silver,False
+2470,Unknown Name,19.0,Unknown Gender,Pune,,0.0,Unknown,False
+616,Riya,23.0,M,Unknown City,2022-01-10,0.0,Gold,False
+1319,Arjun,23.0,F,Unknown City,2020-07-15,0.0,Unknown,False
+2137,Aman,21.0,M,Delhi,,0.0,Silver,False
+177,Sneha,19.0,M,Mumbai,,0.0,Gold,False
+1773,Unknown Name,23.0,F,Mumbai,2020-07-15,0.0,Silver,True
+725,Pooja,21.0,Unknown Gender,Bangalore,2021-12-05,0.0,Unknown,True
+1538,Unknown Name,23.0,F,Pune,2022-02-10,0.0,Gold,True
+1315,Riya,22.0,Unknown Gender,Pune,,0.0,Silver,False
+1320,Sneha,23.0,Unknown Gender,Unknown City,2020-07-15,0.0,Gold,False
+440,Aman,21.0,F,Mumbai,2022-01-10,0.0,Gold,True

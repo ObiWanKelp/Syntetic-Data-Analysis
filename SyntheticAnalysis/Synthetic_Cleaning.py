@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 pd.set_option('future.no_silent_downcasting', True)
-df = pd.read_csv('python1/PandasPrac/SyntheticAnalysis/dirty_user_data.csv')
+df = pd.read_csv('/Users/aditya/Desktop/CodeKelp/python1/PandasPrac/SyntheticAnalysis/Synthetic_Cleaned.csv')
 print(df)
 
 
