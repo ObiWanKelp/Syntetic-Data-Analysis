@@ -14,8 +14,10 @@ The current focus of this project is **data cleaning only**. Analysis and visual
 SyntheticAnalysis/
 │
 ├── dirty_user_data.csv        # Raw synthetic dataset
-├── Synthetic_Cleaning.py      # Data cleaning and preprocessing script
-└── README.md
+├── Synthetic_Cleaning.py      # Data cleaning & preprocessing script
+├── Synthetic_Analysing.py     # Data analysis / EDA script 
+└── Synthetic_Cleaned.csv      #Synthetic_Cleaned.csv 
+
 ```
 
 ---
