@@ -73,10 +73,15 @@ The script reads the raw CSV, applies cleaning steps, and prepares the dataset f
 
 ---
 
-## Next Steps
+## Doing Exploratory Data Analysis
 
-- Add exploratory data analysis using Pandas
-- Create visualizations using Matplotlib
+- Built a few plots while analysing the data
+- Created visualizations using Matplotlib
+
+---
+
+## What next 
+
 - Build an interactive dashboard on top of the cleaned dataset
 
 ---
