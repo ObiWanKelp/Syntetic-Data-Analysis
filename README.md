@@ -83,6 +83,7 @@ The script reads the raw CSV, applies cleaning steps, and prepares the dataset f
 ## What next 
 
 - Build an interactive dashboard on top of the cleaned dataset
+- Analyse more data from this dataset
 
 ---
 
