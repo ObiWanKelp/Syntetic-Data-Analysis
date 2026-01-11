@@ -90,5 +90,6 @@ The script reads the raw CSV, applies cleaning steps, and prepares the dataset f
 ## Notes
 
 This project uses synthetic data created for learning and demonstration purposes.
+Tries to assume real data.
 
 ---
